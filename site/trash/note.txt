@@ -1,0 +1,173 @@
+// Location
+<select name="location" id="location">
+	<option value="">Semua lokasi</option>
+    <optgroup label="Indonesia">
+        <option value="30100" class="opt-indent">Aceh</option>
+        <option value="30200" class="opt-indent">Bali</option>
+        <option value="32800" class="opt-indent">Bangka Belitung</option>
+        <option value="32900" class="opt-indent">Banten</option>
+        <option value="30300" class="opt-indent">Bengkulu</option>
+        <option value="33000" class="opt-indent">Gorontalo</option>
+        <option value="30500" class="opt-indent">Jakarta Raya</option>
+        <option value="30600" class="opt-indent">Jambi</option>
+        <option value="30700" class="opt-indent">Jawa Barat</option>
+        <option value="30800" class="opt-indent">Jawa Tengah</option>
+        <option value="30900" class="opt-indent">Jawa Timur</option>
+        <option value="31000" class="opt-indent">Kalimantan Barat</option>
+        <option value="31100" class="opt-indent">Kalimantan Selatan</option>
+        <option value="31200" class="opt-indent">Kalimantan Tengah</option>
+        <option value="31300" class="opt-indent">Kalimantan Timur</option>
+        <option value="33200" class="opt-indent">Kepulauan Riau</option>
+        <option value="31400" class="opt-indent">Lampung</option>
+        <option value="31500" class="opt-indent">Maluku</option>
+        <option value="33100" class="opt-indent">Maluku Utara</option>
+        <option value="31600" class="opt-indent">Nusa Tenggara Barat</option>
+        <option value="31700" class="opt-indent">Nusa Tenggara Timur</option>
+        <option value="30400" class="opt-indent">Papua</option>
+        <option value="33300" class="opt-indent">Papua Barat</option>
+        <option value="31800" class="opt-indent">Riau</option>
+        <option value="33400" class="opt-indent">Sulawesi Barat</option>
+        <option value="31900" class="opt-indent">Sulawesi Selatan</option>
+        <option value="32000" class="opt-indent">Sulawesi Tengah</option>
+        <option value="32100" class="opt-indent">Sulawesi Tenggara</option>
+        <option value="32200" class="opt-indent">Sulawesi Utara</option>
+        <option value="32300" class="opt-indent">Sumatera Barat</option>
+        <option value="32400" class="opt-indent">Sumatera Selatan</option>
+        <option value="32500" class="opt-indent">Sumatera Utara</option>
+        <option value="32700" class="opt-indent">Yogyakarta</option>
+    </optgroup>
+    <optgroup label="Luar Negeri">
+        <option value="60000" class="opt-indent">Filipina</option>
+        <option value="20000" class="opt-indent">Hongkong</option>
+        <option value="40000" class="opt-indent">India</option>
+        <option value="30000" class="opt-indent">Indonesia</option>
+        <option value="150000" class="opt-indent">Jepang</option>
+        <option value="50000" class="opt-indent">Malaysia</option>
+        <option value="70000" class="opt-indent">Singapura</option>
+        <option value="80000" class="opt-indent">Thailand</option>
+        <option value="100000" class="opt-indent">Tiongkok  </option>
+        <option value="110000" class="opt-indent">Vietnam</option>
+    </optgroup>
+    <optgroup label="Lokasi kerja yang lain">
+        <option value="90100" class="opt-indent">Semua lokasi kerja yang lain</option>
+        <option value="90110" class="opt-indent">Afrika</option>
+        <option value="90120" class="opt-indent">Asia </option>
+        <option value="90130" class="opt-indent">Asia </option>
+        <option value="90140" class="opt-indent">Australia &amp; Selandia Baru</option>
+        <option value="90150" class="opt-indent">Eropa</option>
+        <option value="90160" class="opt-indent">Amerika Utara</option>
+        <option value="90170" class="opt-indent">Amerika Selatan</option>
+    </optgroup>
+</select>
+
+// Specialization
+<select name="specialization" id="specialization">
+	<option value="">Semua spesialisasi</option>
+    <optgroup class="optgroup" label="Akuntansi/Keuangan">
+        <option value="130,131,132,135" class="opt-indent">Semua Akuntansi/Keuangan</option>
+        <option value="130" class="opt-indent">Audit &amp; Pajak</option>
+        <option value="135" class="opt-indent">Perbankan/Keuangan</option>
+        <option value="132" class="opt-indent">Keuangan/Investasi</option>
+        <option value="131" class="opt-indent">Akuntansi Umum/Pembiayaan</option>
+    </optgroup>
+    <optgroup class="optgroup" label="Adminstrasi/Personalia">
+        <option value="133,137,146,148" class="opt-indent">Semua Adminstrasi/Personalia</option>
+        <option value="133" class="opt-indent">Staf/Administrasi umum</option>
+        <option value="137" class="opt-indent">Personalia</option>
+        <option value="146" class="opt-indent">Sekretaris</option>
+        <option value="148" class="opt-indent">Manajemen Atas</option>
+    </optgroup>
+    <optgroup class="optgroup" label="Seni/Media/Komunikasi">
+        <option value="100,101,106,141" class="opt-indent">Semua Seni/Media/Komunikasi</option>
+        <option value="100" class="opt-indent">Periklanan</option>
+        <option value="101" class="opt-indent">Seni/Desain Kreatif</option>
+        <option value="106" class="opt-indent">Hiburan/Seni Panggung</option>
+        <option value="141" class="opt-indent">Hubungan Masyarakat</option>
+    </optgroup>
+    <optgroup class="optgroup" label="Bangunan/Konstruksi">
+        <option value="150,180,184,198" class="opt-indent">Semua Bangunan/Konstruksi</option>
+        <option value="180" class="opt-indent">Arsitek/Desain Interior</option>
+        <option value="184" class="opt-indent">Sipil/Konstruksi Bangunan</option>
+        <option value="150" class="opt-indent">Properti/Real Estate</option>
+        <option value="198" class="opt-indent">Survei Kuantitas</option>
+    </optgroup>
+    <optgroup class="optgroup" label="Komputer/IT">
+        <option value="191,192,193" class="opt-indent">Semua Komputer/IT</option>
+        <option value="192" class="opt-indent">IT-Perangkat Keras</option>
+        <option value="193" class="opt-indent">IT-Jaringan/Sistem/Sistem Database</option>
+        <option value="191" class="opt-indent">IT-Perangkat Lunak</option>
+    </optgroup>
+    <optgroup class="optgroup" label="Pendidikan/Pelatihan">
+        <option value="105,121" class="opt-indent">Semua Pendidikan/Pelatihan</option>
+        <option value="105" class="opt-indent">Pendidikan</option>
+        <option value="121" class="opt-indent">Penelitian &amp; Pengembangan</option>
+    </optgroup>
+    <optgroup class="optgroup" label="Teknik">
+        <option value="185,186,187,188,189,190,195,200" class="opt-indent">Semua Teknik</option>
+        <option value="185" class="opt-indent">Teknik Kimia</option>
+        <option value="187" class="opt-indent">Teknik Elektrikal</option>
+        <option value="186" class="opt-indent">Teknik Elektro</option>
+        <option value="189" class="opt-indent">Teknik Lingkungan</option>
+        <option value="200" class="opt-indent">Teknik</option>
+        <option value="195" class="opt-indent">Mekanik/Otomotif</option>
+        <option value="190" class="opt-indent">Teknik Perminyakan</option>
+        <option value="188" class="opt-indent">Teknik Lainnya</option>
+    </optgroup>
+    <optgroup class="optgroup" label="Kesehatan">
+        <option value="111,112,113" class="opt-indent">Semua Kesehatan</option>
+        <option value="113" class="opt-indent">Dokter/Diagnosa</option>
+        <option value="112" class="opt-indent">Farmasi</option>
+        <option value="111" class="opt-indent">Praktisi/Asisten Medis</option>
+    </optgroup>
+    <optgroup class="optgroup" label="Hotel/Restoran">
+        <option value="107,114" class="opt-indent">Semua Hotel/Restoran</option>
+        <option value="107" class="opt-indent">Makanan/Minuman/Pelayanan Restoran</option>
+        <option value="114" class="opt-indent">Hotel/Pariwisata</option>
+    </optgroup>
+    <optgroup class="optgroup" label="Manufaktur">
+        <option value="115,140,194,196,197" class="opt-indent">Semua Manufaktur</option>
+        <option value="115" class="opt-indent">Pemeliharaan</option>
+        <option value="194" class="opt-indent">Manufaktur</option>
+        <option value="196" class="opt-indent">Kontrol Proses</option>
+        <option value="140" class="opt-indent">Pembelian/Manajemen Material</option>
+        <option value="197" class="opt-indent">Penjaminan Kualitas / QA</option>
+    </optgroup>
+    <optgroup class="optgroup" label="Penjualan/Marketing">
+        <option value="139,142,143,144,145,149,151" class="opt-indent">Semua Penjualan/Marketing</option>
+        <option value="142" class="opt-indent">Penjualan - Korporasi</option>
+        <option value="139" class="opt-indent">Pemasaran/Pengembangan Bisnis</option>
+        <option value="149" class="opt-indent">Merchandising</option>
+        <option value="145" class="opt-indent">Penjualan Ritel</option>
+        <option value="143" class="opt-indent">Penjualan - Teknik/Teknikal/IT</option>
+        <option value="144" class="opt-indent">Proses desain dan kontrol</option>
+        <option value="151" class="opt-indent">Tele-sales/Telemarketing</option>
+    </optgroup>
+    <optgroup class="optgroup" label="Ilmu Pengetahuan">
+        <option value="102,103,108,109,181,182,183,199" class="opt-indent">Semua Ilmu Pengetahuan</option>
+        <option value="103" class="opt-indent">Aktuaria/Statistik</option>
+        <option value="102" class="opt-indent">Pertanian</option>
+        <option value="181" class="opt-indent">Penerbangan</option>
+        <option value="182" class="opt-indent">Bioteknologi</option>
+        <option value="183" class="opt-indent">Kimia</option>
+        <option value="108" class="opt-indent">Teknologi Makanan/Ahli Gizi</option>
+        <option value="109" class="opt-indent">Geologi/Geofisika</option>
+        <option value="199" class="opt-indent">Ilmu Pengetahuan &amp; Teknologi/Lab</option>
+    </optgroup>
+    <optgroup class="optgroup" label="Pelayanan">
+        <option value="118,119,120,134,138,147,152" class="opt-indent">Semua Pelayanan</option>
+        <option value="119" class="opt-indent">Keamanan / Angkatan Bersenjata</option>
+        <option value="134" class="opt-indent">Pelayanan Pelanggan</option>
+        <option value="147" class="opt-indent">Logistik/Jaringan distribusi</option>
+        <option value="138" class="opt-indent">Hukum / Legal</option>
+        <option value="118" class="opt-indent">Perawatan Kesehatan / Kecantikan</option>
+        <option value="120" class="opt-indent">Pelayanan kemasyarakatan</option>
+        <option value="152" class="opt-indent">Teknikal &amp; Bantuan Pelanggan</option>
+    </optgroup>
+    <optgroup class="optgroup" label="Lainnya">
+        <option value="90,104,110,116,117" class="opt-indent">Semua Lainnya</option>
+        <option value="110" class="opt-indent">Pekerjaan Umum</option>
+        <option value="104" class="opt-indent">Jurnalis/Editor</option>
+        <option value="117" class="opt-indent">Penerbitan</option>
+        <option value="116" class="opt-indent">Lainnya/Kategori tidak tersedia</option>
+    </optgroup>
+</select>

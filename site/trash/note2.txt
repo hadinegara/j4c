@@ -1,0 +1,22 @@
+$aus = array(
+	'Australia' => array(
+		'Sydney',
+		'Melbourne',
+		'Brisbane',
+		'Gold Coast',
+		'Perth',
+		'Adelaide',
+		'Hobart',
+		'Darwin',
+		'Canberra'	
+	)
+);
+
+$position = array(
+	'All Position',
+	'CEO/ GM/ Director/ Senior Manager',
+	'Manager/ Assistant Manager',
+	'Supervisor/ Coordinator',
+	'Non-management &amp; Non-Supervisor',
+	'Fresh Graduated/ 1 Year Experience'
+);
