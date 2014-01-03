@@ -50,11 +50,11 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'root';
-$db['default']['password'] = 'apmserver12';$db['default']['database'] = 'geblek';
-//$db['default']['password'] = '';$db['default']['database'] = 'job4career2';
+$db['default']['password'] = 'root';
+$db['default']['database'] = 'git_j4c';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
-$db['default']['pconnect'] = TRUE;
+$db['default']['pconnect'] = FALSE;
 $db['default']['db_debug'] = TRUE;
 $db['default']['cache_on'] = FALSE;
 $db['default']['cachedir'] = '';
