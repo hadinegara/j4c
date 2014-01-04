@@ -15,6 +15,7 @@ class Posted_job extends MY_Controller {
 		
 		$this->_addjs(array(
 			'app.modal.js',
+			'app-job.js',
 			'app-company.js'
 		));
 	}
@@ -35,6 +36,25 @@ class Posted_job extends MY_Controller {
 			'alert_status' => ($delete == TRUE) ? 'success' : 'error'
 		));
 		redirect(base_url('company/posted_job'));
+	}
+	
+	function detail()
+	{
+		$job_id = dec($this->input->get('id'));
+		
+		if($job_id == '')
+			show_404();
+			
+		$detail = $this->job_model->job_detail($job_id);
+		if($detail == FALSE)
+			show_404();
+		
+		$content = '';		
+		$content .= $this->load->view('company/tab', array('active_tab'=>'resume'), TRUE);
+		$content .= $this->load->view('company/job_detail', array('detail'=>$detail), TRUE);
+		
+		$this->_data['content'] = $content;
+		$this->load->view('default', $this->_data);	
 	}
 	
 	function edit()

@@ -20,27 +20,44 @@ class Job extends MY_Controller {
 	{
 		$job_id = dec($this->input->get('id', TRUE));
 		$seeker_id = $this->session->userdata('seeker_id');
-		if($seeker_id != '')
+		
+		// check is applied
+		$is_applied = $this->job_model->is_applied($job_id, $seeker_id);
+		if($is_applied)
 		{
-			$pstatus = $this->seeker_model->get_percentage_status($seeker_id);
-			if($pstatus < 100)
-			{
-				$this->session->set_flashdata('notification', $this->lang->line('msg_resume_not_complete'));
-				redirect(base_url('my_job/resume'));
-			}
-			else
-			{
-				$this->job_model->apply($job_id, $seeker_id);
-				redirect(base_url('my_job'));
-			}
+			$vars = array(
+				'detail' => $this->job_model->job_detail($job_id),
+				'is_applied' => $is_applied,
+				'error_message' => $this->lang->line('msg_job_already_applied')
+			);
+			
+			$this->_data['content'] = $this->load->view('job/detail', $vars, TRUE);
+			$this->load->view('default', $this->_data);		
 		}
 		else
 		{
-			$this->session->set_userdata(array(
-				'login_back_url' => full_url(),
-				'login_message' => $this->lang->line('msg_job_apply_need_login')
-			));
-			redirect(base_url('login/manual'));
+			if($seeker_id != '')
+			{
+				$pstatus = $this->seeker_model->get_percentage_status($seeker_id);
+				if($pstatus < 100)
+				{
+					$this->session->set_flashdata('notification', $this->lang->line('msg_resume_not_complete'));
+					redirect(base_url('my_job/resume'));
+				}
+				else
+				{
+					$this->job_model->apply($job_id, $seeker_id);
+					redirect(base_url('my_job'));
+				}
+			}
+			else
+			{
+				$this->session->set_userdata(array(
+					'login_back_url' => full_url(),
+					'login_message' => $this->lang->line('msg_job_apply_need_login')
+				));
+				redirect(base_url('login/manual'));
+			}
 		}
 	}
 	
@@ -53,7 +70,12 @@ class Job extends MY_Controller {
 		if($detail == FALSE)
 			show_404();
 		
-		$this->_data['content'] = $this->load->view('job/detail', array('detail'=>$detail), TRUE);
+		$vars = array(
+			'detail' => $detail,
+			'is_applied' => $this->job_model->is_applied($job_id, $this->session->userdata('seeker_id'))
+		);
+		
+		$this->_data['content'] = $this->load->view('job/detail', $vars, TRUE);
 		$this->load->view('default', $this->_data);
 	}
 	

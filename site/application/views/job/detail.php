@@ -2,6 +2,12 @@
 
 	<div class="span8">
 	
+		<?php if(isset($error_message) && $error_message != ''): ?>
+			<div class="alert alert-error">
+				<?php echo $error_message; ?>
+			</div>
+		<?php endif; ?>
+		
 		<div class="job-pre">
 			<div class="title"><?php echo $detail['title'] ?></div>
 			<div class="company"><?php echo $detail['cp_name'] ?></div>
@@ -22,7 +28,7 @@
 			<li class="active"><a href="#jdetail"><?php echo $this->lang->line('label_job_detail'); ?></a></li>
 			<li><a href="#cdetail"><?php echo $this->lang->line('label_company_details'); ?></a></li>
 		</ul>
-		 
+		
 		<div class="tab-content">
 			<div class="tab-pane active" id="jdetail">
 				<div class="desc">
@@ -92,7 +98,7 @@
 		</div>
 		
 		<div class="text-center">
-			<a style="width:60px" class="btn btn-small btn-primary" href="<?php echo base_url('job/apply?id='. enc($detail['job_id'])); ?>"><?php echo $this->lang->line('btn_job_apply'); ?></a>
+			<a style="width:60px" class="btn btn-small btn-primary <?php echo ($is_applied?'disabled ':''); ?>" href="<?php echo base_url('job/apply?id='. enc($detail['job_id'])); ?>"><?php echo $this->lang->line('btn_job_apply'); ?></a>
 			<a style="width:60px" class="btn btn-small" href="#"><?php echo $this->lang->line('btn_share'); ?></a>
 		</div>
 		

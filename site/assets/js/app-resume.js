@@ -1,16 +1,23 @@
 $(function(){
+
 	$(".resume-container").css('margin-top', function(){
 		return -($(".resume-photo").outerHeight());
 	});
 	
 	// edit button
+	var $modal_trigger = null;
 	$(".resume-edit").each(function(){
 		$(this).bind('click', function(e){
 			e.preventDefault();
-			var modal_id = $(this).attr("data-modal"),
+			var me = $(this),
+				modal_id = me.attr("data-modal"),
 				modal = $("#"+ modal_id);
 			
-			modal.on('shown', function(){
+			// save trigger
+			$modal_trigger = me;
+			
+			// modal shown
+			modal.on('shown', function(){				
 				modal.find('.btn-n').bind('click', function(e){
 					e.preventDefault();
 					modal.modal('hide');
@@ -268,9 +275,129 @@ $(function(){
 				form = modalREF.find("form:first"),
 				container = $(".resume-part.reference").find(".part-body");
             
-            var mode = (modalREF.find("#mode").html()).toLowerCase();
-            console.log(mode);
+            var mode = (modalREF.find("#mode").html()).toLowerCase(),
+				init_param = {mode: mode};
+				
+			if(mode == "edit"){
+				init_param['id'] = $modal_trigger.attr("data-id");
+			}
+			
+			// grab form data
+			var data = {},
+				empty_el = [];
+			$.each(form.find("input[type='text']"), function(i, el){
+				var name = $(el).attr("name"),
+					value = $.trim($(el).val());
+					
+				data[name] = value;
+				if(value == "" && /(required)/i.test($(el).attr("class"))){
+					empty_el.push(el);
+					$(el).css({borderColor: 'red'});
+				} else if(value != "") {
+					$(el).removeAttr("style");
+				}
+			});				
+			if(empty_el.length === 0){
+			
+				me.button('loading');
+				$.ajax({
+					type: "post",
+					url: form.attr("action"),
+					data: $.extend({}, init_param, data),
+					dataType: "json",
+					success: function(r){
+						me.button('reset');
+						if(r.success == true){
+							var tpl = $('<div class="part-item bd01 p10 mbm1 relative">');
+							
+							// append edit button to tpl
+							tpl.append([
+								'<div class="resume-edit-part">',
+									'<a class="btn-edit-reference" href="#" data-id="'+ r.id +'">Edit</a>',
+								'</div>',
+							].join(""));
+							
+							// append data to tpl
+							$.each(data, function(k, v){
+								tpl.append([
+									'<div class="part-item-row" data-field="'+ k +'" data-value="'+ v +'">',
+										'<div class="pull-left w35"><strong>'+ (k[0].toUpperCase())+(k.substring(1)) +'</strong></div>',
+										'<div class="pull-left w65">'+ v +'</div>',
+										'<div class="clearfix"></div>',
+									'</div>'
+								].join(""));
+							});
+							
+							// append clearfix to tpl
+							tpl.append('<div class="clearfix"></div>');
+							
+							// apply tpl to container
+							if(container.find(".part-item").length === 0){
+								container.html("");
+								container.append(tpl);
+							} else {
+								var old_data_id = container.find("[data-id='"+ r.id +"']");
+								if(old_data_id.length !== 0){
+									var tpl_wrap = old_data_id.closest(".part-item");
+									tpl_wrap.html(tpl.html());
+								} else {
+									container.append(tpl);
+								}
+							}
+							modalREF.modal('hide');
+						} else {
+							alert(r.message);
+							container.html(r.message);
+						}
+					},
+					error: function(e){
+						me.button('reset');
+						alert(e.statusText);
+						container.html(e.statusText);
+					}
+				});
+			}
         });
     }
     /** End of Add Reference */
+	
+    /** Edit Reference */
+	var $ref_mode = "";
+	$(document.body).on('click', '.btn-edit-reference', function(e){	
+		e.preventDefault();
+		var modal = $("#reference-modal"),
+			form = modal.find("form:first");
+		
+		// save trigger & mode
+		$modal_trigger = $(this);
+		$ref_mode = modal.find("#mode").html();
+		
+		modal.on('shown', function(){
+			if($modal_trigger.attr("class") == "btn-edit-reference"){
+				modal.find("#mode").html("Edit");				
+				// load record
+				var db = $modal_trigger.closest(".part-item"),
+					rows = db.find(".part-item-row");
+					
+				$.each(rows, function(i, el){
+					var f = $(el).attr("data-field"),
+						v = $(el).attr("data-value");					
+					form.find("input[name='"+ f +"']").val(v);
+				});
+			} else {
+				// clear field
+				form.find("input[type='text']").val("");
+			}
+			
+			modal.find('.btn-n').bind('click', function(e){
+				e.preventDefault();
+				modal.modal('hide');
+			});
+		});
+		modal.on('hide', function(){
+			modal.find("#mode").html($ref_mode);
+		});
+		modal.modal({backdrop: 'static'});
+	});
+    /** End of Edit Reference */
 });

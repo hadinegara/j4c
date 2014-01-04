@@ -8,11 +8,14 @@
 .mb10 { margin-bottom: 10px; }
 .mb15 { margin-bottom: 15px; }
 .mb20 { margin-bottom: 20px; }
+.mbm1 { margin-bottom: -1px; }
 
 .mr05 { margin-right: 5px; }
 .mr10 { margin-right: 10px; }
 .ml05 { margin-left: 5px; }
 .ml10 { margin-left: 10px; }
+
+.p10 { padding: 10px; }
 
 .w10 { width: 10%; }
 .w15 { width: 15%; }
@@ -28,6 +31,8 @@
 .w55 { width: 55%; }
 .w60 { width: 60%; }
 .w65 { width: 65%; }
+
+.bd01 { border: 1px solid #CCC; }
 
 .img-responsive {
 	height: 100%;
@@ -339,6 +344,11 @@
 	margin-bottom: 20px;
 }
 
+.resume-edit-part {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
 .resume-photo,
 .resume-container {
 }

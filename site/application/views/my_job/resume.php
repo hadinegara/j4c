@@ -219,19 +219,74 @@
 					<div class="clearfix"></div>
 				</div>
 				<div class="part-body">
-					<?php $refs = @$info['reference'][0]; ?>
+					<?php $refs = @$info['reference']; ?>
 					<?php if(is_array($refs) && count($refs)>0): ?>
-						<?php foreach($refs as $k=>$v): ?>
-							<div class="part-item">
-								<div class="pull-left w35"><strong><?php echo $this->lang->line('label_'.$k); ?></strong></div>
-								<div class="pull-left w65"><?php echo (! $v) ? '-' : $v; ?></div>
+						<?php foreach($refs as $ref): ?>
+							
+							<div class="part-item bd01 p10 mbm1 relative">
+								<div class="resume-edit-part">
+									<a class="btn-edit-reference" href="#" data-id="<?php echo $ref['reference_id']; ?>">Edit</a>
+								</div>
+								<?php foreach($ref as $k=>$v): ?>
+									<?php if(! preg_match('/(_id|date_)/i', $k)): ?>
+										<div class="part-item-row" data-field="<?php echo $k; ?>" data-value="<?php echo $v; ?>">
+											<div class="pull-left w35"><strong><?php echo $this->lang->line('label_'. $k); ?></strong></div>
+											<div class="pull-left w65"><?php echo $v; ?></div>
+											<div class="clearfix"></div>
+										</div>
+									<?php endif; ?>
+								<?php endforeach; ?>								
 								<div class="clearfix"></div>
 							</div>
+							
 						<?php endforeach; ?>
 					<?php else: ?>
+
+						<!--
+						<div class="part-item bd01 p10 mbm1 relative">
+							<div class="resume-edit-part">
+								<a class="btn-edit-reference" href="#" data-id="1">Edit</a>
+							</div>
+							
+							<div class="part-item-row" data-field="name" data-value="Bambang">
+								<div class="pull-left w35"><strong>Name</strong></div>
+								<div class="pull-left w65">Bambang</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="part-item-row" data-field="phone" data-value="021-7507501">
+								<div class="pull-left w35"><strong>Phone</strong></div>
+								<div class="pull-left w65">021-7507501</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="part-item-row" data-field="email" data-value="bambang@yahoo.com">
+								<div class="pull-left w35"><strong>Email</strong></div>
+								<div class="pull-left w65">bambang@yahoo.com</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="part-item-row" data-field="company" data-value="PT. Bambang SIP">
+								<div class="pull-left w35"><strong>Company</strong></div>
+								<div class="pull-left w65">PT. Bambang SIP</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="part-item-row" data-field="position" data-value="General Manager">
+								<div class="pull-left w35"><strong>Position</strong></div>
+								<div class="pull-left w65">General Manager</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="part-item-row" data-field="relationship" data-value="Brother">
+								<div class="pull-left w35"><strong>Relationship</strong></div>
+								<div class="pull-left w65">Brother</div>
+								<div class="clearfix"></div>
+							</div>
+							
+							<div class="clearfix"></div>
+						</div>
+						-->
+					
 						<div class="alert alert-error">
 							<?php echo $this->lang->line('msg_no_reference'); ?>
 						</div>
+
 					<?php endif; ?>
 				</div>
 			</div>

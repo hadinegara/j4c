@@ -197,6 +197,42 @@ class Resume extends MY_Controller {
 			));
 		}
 	}
+	
+	private function _update_reference()
+	{
+		// get seeker id
+		$seeker_id = $this->session->userdata('seeker_id');
+		if($seeker_id == '')
+		{
+			echo json_encode(array(
+				'success' => FALSE,
+				'message' => $this->lang->line('msg_seeker_id_not_found')
+			));
+			exit;		
+		}
+		
+		$post_data = array(
+			'id' => $this->input->post('id', TRUE),
+			'mode' => $this->input->post('mode', TRUE),
+			'seeker_id' => $seeker_id,
+			'data' => array(
+				'name' 			=> $this->input->post('name', TRUE),
+				'phone' 		=> $this->input->post('phone', TRUE),
+				'email' 		=> $this->input->post('email', TRUE),
+				'company' 		=> $this->input->post('company', TRUE),
+				'position' 		=> $this->input->post('position', TRUE),
+				'relationship' 	=> $this->input->post('relationship', TRUE)
+			)
+		);
+		
+		$save = $this->resume_model->save_reference($post_data);
+		echo json_encode(array(
+			'success' => ($save !== FALSE) ? TRUE : FALSE,
+			'message' => ($save !== FALSE) ? $this->lang->line('msg_reference_saved') : $this->lang->line('msg_reference_failure_saved'),
+			'data' => $post_data['data'],
+			'id' => $save
+		));
+	}
 	/** end of PRIVATE */
 	
 	

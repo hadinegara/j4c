@@ -96,6 +96,52 @@ class Job_model extends CI_Model {
 	
 	 
 	/**
+	 * Get applied resumes for logged company
+	 * 
+	 * @param	company_id
+	 * @return	boolean
+	 */
+	function get_applied_resumes($company_id)
+	{
+		if(! $company_id)
+			return FALSE;
+		
+		$get = $this->db->select('job_id,title,date_create,date_close')
+						->select('(SELECT COUNT(job_apply_id) FROM job_apply WHERE job_id=job.job_id) AS num_resume')
+						->from('job')
+						->where('company_id', $company_id)
+						->get();
+		
+		if($get && $get->num_rows()>0)
+		{
+			return $get->result_array();
+		}
+		else
+		{
+			return FALSE;
+		}
+	}
+	
+	
+	/**
+	 * Check whether current job is applied by current seeker
+	 * 
+	 * @param	job_id
+	 * @param	seeker_id
+	 * @return	boolean
+	 */
+	function is_applied($job_id, $seeker_id)
+	{
+		if(! $job_id || ! $seeker_id)
+			return FALSE;
+		
+		$num = $this->db->where(array('job_id'=>$job_id, 'seeker_id'=>$seeker_id))
+						->count_all_results('job_apply');
+		return ($num > 0) ? TRUE : FALSE;
+	}
+	 
+	 
+	/**
 	 * Get job detail
 	 * 
 	 * @param	str job_id

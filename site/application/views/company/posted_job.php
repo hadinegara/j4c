@@ -39,6 +39,7 @@ $alert_status = $this->session->flashdata('alert_status');
 						<a href="<?php echo base_url('company/posted_job/edit?id='. enc($row['job_id'])); ?>" class="btn btn-small btn-warning"><?php echo $this->lang->line('btn_edit'); ?></a>
 						<a href="<?php echo base_url('company/posted_job/delete?id='. enc($row['job_id'])); ?>" class="btn btn-small btn-danger btn-delete"
 							data-confirm-message="<?php echo $this->lang->line('msg_job_confirm_delete'); ?>"><?php echo $this->lang->line('btn_delete'); ?></a>
+						
 						<div class="data-preview" data-title="<?php echo $row['title']; ?>" style="display:none">
 							<div>
 								<strong><?php echo $this->lang->line('label_description'); ?></strong>
