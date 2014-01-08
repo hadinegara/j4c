@@ -41,4 +41,16 @@ class Search extends MY_Controller {
 		}
 	}
 	
+	function advanced()
+	{
+		Menu::$active_menu = 'search';
+		
+		$vars = array(
+			'locations' => $this->job_model->locations()
+		);
+		
+		$this->_data['content'] = $this->load->view('search/advanced', $vars, TRUE);
+		$this->load->view('default', $this->_data);
+	}
+	
 }
