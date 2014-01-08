@@ -338,7 +338,7 @@ CREATE TABLE IF NOT EXISTS `mailer` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
 
--- Dumping data for table git_j4c.mailer: ~0 rows (approximately)
+-- Dumping data for table git_j4c.mailer: ~1 rows (approximately)
 /*!40000 ALTER TABLE `mailer` DISABLE KEYS */;
 INSERT INTO `mailer` (`id`, `send_to`, `message_tpl`, `param`, `status`, `date_create`, `date_send`, `date_modified`) VALUES
 	(1, 'nurhadijogja@gmail.com', 'registered', '{"first_name":"Nurhadi","last_name":"","reg_code":"af67c9a4fd10d26258925694acb20a1a"}', 'pending', '2014-01-04 12:12:04', '0000-00-00 00:00:00', '2014-01-04 12:12:04');
@@ -456,7 +456,7 @@ CREATE TABLE IF NOT EXISTS `seeker` (
   UNIQUE KEY `UNIQ` (`email`,`reg_platform`)
 ) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
 
--- Dumping data for table git_j4c.seeker: ~0 rows (approximately)
+-- Dumping data for table git_j4c.seeker: ~1 rows (approximately)
 /*!40000 ALTER TABLE `seeker` DISABLE KEYS */;
 INSERT INTO `seeker` (`seeker_id`, `first_name`, `last_name`, `email`, `password`, `pics`, `address`, `phone`, `mobile`, `address_idcard`, `dob`, `pob`, `gender`, `religion`, `height`, `weight`, `nationality`, `searchable`, `status`, `reg_code`, `reg_platform`, `reg_platform_id`, `date_create`, `date_modified`) VALUES
 	(1, 'Nurhadi', '', 'nurhadijogja@gmail.com', 'master', '', '', '', '', '', '1985-10-27', '', 'F', '', 0, 0, '', '1', 'active', 'af67c9a4fd10d26258925694acb20a1a', 'manual', '', '2014-01-04 12:12:03', '2014-01-04 12:12:29');
@@ -474,7 +474,7 @@ CREATE TABLE IF NOT EXISTS `sessions` (
   KEY `last_activity_idx` (`last_activity`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
--- Dumping data for table git_j4c.sessions: ~0 rows (approximately)
+-- Dumping data for table git_j4c.sessions: ~3 rows (approximately)
 /*!40000 ALTER TABLE `sessions` DISABLE KEYS */;
 INSERT INTO `sessions` (`session_id`, `ip_address`, `user_agent`, `last_activity`, `user_data`) VALUES
 	('06c11aa720752ad5ac27b7b35923a113', '::1', 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36', 1388812238, ''),
