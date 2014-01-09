@@ -164,6 +164,7 @@ $lang['label_job_detail']								= 'Job Details';
 $lang['label_job_saved']								= 'Job Saved';
 $lang['label_job_title']								= 'Job Title';
 $lang['label_job_type']									= 'Job Type';
+$lang['label_keyword']									= 'Keyword';
 $lang['label_language']									= 'Language Skills';
 $lang['label_language_name']							= 'Language Name';
 $lang['label_language_spoken']							= 'Spoken';
