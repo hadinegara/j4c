@@ -6,7 +6,7 @@
 		<?php foreach($popular as $row): ?>
 			<div class="widget-row">
 				<a href="<?php echo base_url("blog/read/{$row['id']}/". url_title($row['title'])); ?>"><?php echo $row['title']; ?></a>
-				<small><?php echo date('d F Y h:i A', strtotime($row['date_create'])); ?></small>
+				<div class="small"><?php echo date('d F Y h:i A', strtotime($row['date_create'])); ?></div>
 			</div>
 		<?php endforeach; ?>
 	</div>

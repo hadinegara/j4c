@@ -9,7 +9,10 @@ class Register extends MY_Controller {
 		$this->load->library('form_validation');
 		$this->form_validation->set_error_delimiters('<div class="form-error">', '</div>');
 		
-		$this->load->model('company_model');
+		$this->load->model(array(
+			'company_model',
+			'job_model'
+		));
 		
 		Menu::$active_menu = 'company';
 		Menu::$active_submenu = 'register';
@@ -22,7 +25,14 @@ class Register extends MY_Controller {
 	
 	function index()
 	{
-		$this->_data['content'] = $this->load->view('company/register_form', '', TRUE);
+		$vars = array(
+			'categories' => $this->job_model->categories(),
+			'locations' => $this->job_model->locations()
+		);
+		
+		//echo '<pre>'; print_r($vars['categories']); exit;
+		
+		$this->_data['content'] = $this->load->view('company/register_form', $vars, TRUE);
 		$this->load->view('default', $this->_data);		
 	}
 	

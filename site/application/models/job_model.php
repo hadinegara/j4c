@@ -122,6 +122,27 @@ class Job_model extends CI_Model {
 		}
 	}
 	
+	function get_popular($limit=5)
+	{
+		$get = $this->db->select('count(*) as nums_apply, j.*, c.name as company_name')
+						->from('job_apply ja')
+						->join('job j', 'ja.job_id=j.job_id', 'left')
+						->join('company c', 'j.company_id=c.company_id', 'left')
+						->group_by('ja.job_id')
+						->order_by('nums_apply DESC')
+						->where('j.date_create > DATE_SUB(CURRENT_DATE, INTERVAL 1 WEEK)', NULL, FALSE)
+						->limit($limit)
+						->get();
+						
+		if($get && $get->num_rows()>0)
+		{
+			return $get->result_array();
+		}
+		else
+		{
+			return FALSE;
+		}
+	}
 	
 	/**
 	 * Check whether current job is applied by current seeker
@@ -287,12 +308,20 @@ class Job_model extends CI_Model {
 		
 		// like clause
 		$or_like = array();
+        $or_like[] = "c.name='{$q}'";
 		
 		// apply query
 		foreach(explode(' ', $q) as $query)
-			foreach(array('title', 'requirement', 'category') as $field)
-				$or_like[] = "j.{$field} LIKE '%{$query}%'";
-		
+        {
+            if(! preg_match('/pt\.?/i', $query))
+            {
+    			foreach(array('title', 'requirement', 'category') as $field)
+                {
+    				$or_like[] = "j.{$field} LIKE '%{$query}%'";
+                }
+            }
+        }
+        
 		// apply query
 		if($l != '')
 			foreach(explode(' ', $l) as $loc)

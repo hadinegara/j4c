@@ -2,6 +2,27 @@
 
 class Company_model extends CI_Model {
 
+    /**
+     * Get all companies
+     * @param   void
+     * @return  mixed|boolean
+     */
+    function companies()
+    {
+        $get = $this->db->select('`company_id`, `name`, `description`, `city`, `address`, `country`, `phone`, `industry`, `registrant_name`, `registrant_email`, `registrant_password`, `reg_code`, `status`, `date_create`')
+                        ->order_by('name')
+                        ->get('company');
+        
+        if($get && $get->num_rows()>0)
+        {
+            return $get->result_array();
+        }
+        else
+        {
+            return FALSE;
+        }
+    }
+
 	/**
 	 * Get company info by email
 	 * @param	string email

@@ -7,15 +7,21 @@ class Home extends MY_Controller {
 		parent::__construct();
 		
 		$this->load->model(array(
-			'job_model'
+			'job_model',
+            'company_model'
 		));		
 	}
 
 	function index()
 	{
 		$vars = array(
-			'locations' => $this->job_model->locations()
+			'companies' => $this->company_model->companies(),
+			'locations' => $this->job_model->locations(),
+			'error_simple_search' => $this->session->userdata('error_simple_search')
 		);
+		
+		// clear error
+		$this->session->unset_userdata('error_simple_search');
 		
 		$this->_data['content'] = $this->load->view('home/front', $vars, TRUE);
 		$this->load->view('default', $this->_data);

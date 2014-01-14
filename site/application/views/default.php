@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>ZzZZ</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title><?php echo $page_title; ?></title>
+	<meta name="viewport" content="initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,width=device-width,user-scalable=no" />
 	
 	<link rel="stylesheet" type="text/css" href="<?php echo assets_url('libs/bootstrap/css/bootstrap.css'); ?>" />
 	<link rel="stylesheet" type="text/css" href="<?php echo assets_url('libs/bootstrap/css/bootstrap-responsive.css'); ?>" />
@@ -32,6 +32,7 @@
 				langLine: []
 			};
 	</script>
+	<script type="text/javascript" src="<?php echo assets_url('libs/bootstrap/js/jquery.js'); ?>"></script>
 </head>
 
 <body>
@@ -63,7 +64,6 @@
 	</div>
 </div>
 
-<script type="text/javascript" src="<?php echo assets_url('libs/bootstrap/js/jquery.js'); ?>"></script>
 <script type="text/javascript" src="<?php echo assets_url('libs/bootstrap/js/bootstrap.min.js'); ?>"></script>
 <script type="text/javascript" src="<?php echo assets_url('libs/bootstrap/js/holder/holder.js'); ?>"></script>
 <script type="text/javascript" src="<?php echo assets_url('libs/bootstrap/js/google-code-prettify/prettify.js'); ?>"></script>

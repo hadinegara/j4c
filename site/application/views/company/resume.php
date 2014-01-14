@@ -27,4 +27,5 @@
 	<?php endforeach; ?>
 
 <?php else: ?>
+	<?php echo lang('msg_no_incoming_resume'); ?>
 <?php endif; ?>

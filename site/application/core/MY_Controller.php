@@ -20,7 +20,7 @@ class MY_Controller extends CI_Controller {
 		
 		// default data
 		$this->_data = array(		
-			'page_title' => 'J4C',			
+			'page_title' => 'Job4Career',
 			'content' => ''		
 		);
 	}

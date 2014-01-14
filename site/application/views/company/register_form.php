@@ -54,7 +54,16 @@ $this->session->set_userdata('private_key', $private_key);
 					
 					<div class="span4">
 						<label for="city"><?php echo $this->lang->line('label_city'); ?></label>
-						<input class="input-block-level" type="text" name="city" id="city" value="<?php echo set_value('city'); ?>" />
+						<select name="city" id="city">
+							<option>&nbsp;</option>
+							<?php foreach($locations as $country=>$cities): ?>
+								<optgroup label="<?php echo $country; ?>">
+									<?php foreach($cities as $city): ?>
+										<option data-country="<?php echo $country; ?>" value="<?php echo $city['city']; ?>"><?php echo $city['city']; ?></option>
+									<?php endforeach; ?>
+								</optgroup>
+							<?php endforeach; ?>
+						</select>
 						<?php echo form_error('city'); ?>
 					</div>
 					<div class="span4">
@@ -111,7 +120,7 @@ $this->session->set_userdata('private_key', $private_key);
 				<div class="mt20">
 					<input type="hidden" name="form_id" value="<?php echo $encrypt_key; ?>" />
 					<input type="hidden" name="public_key" value="<?php echo $public_key; ?>" />
-					<button type="submit" class="btn">Submit</button>
+					<button type="submit" class="btn btn-primary">Submit</button>
 				</div>
 				
 			</fieldset>  
@@ -121,3 +130,12 @@ $this->session->set_userdata('private_key', $private_key);
 		<div class="span4">R</div>
 	</div>
 </div>
+
+<script type="text/javascript">
+$(function(){
+	$("#city").bind('change', function(){
+		var c = $(this).find("option:selected").attr("data-country");
+		$("#country").val(c);
+	});
+});
+</script>

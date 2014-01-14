@@ -118,9 +118,9 @@ $this->session->set_userdata('private_key', $private_key);
 									<?php $plabel = $this->lang->line('label_'. url_title($parent_name, '_', TRUE)); ?>
 									<optgroup label="<?php echo $plabel; ?>">
 										<?php foreach($ctg as $c): ?>
-											<?php $tmp_categories[] = $c['name']; ?>
+											<?php $tmp_categories[] = $c['id']; ?>
 											<?php $clabel = $this->lang->line('label_'. url_title($c['name'], '_', TRUE)); ?>
-											<option <?php echo set_select('category', $c['name'], ($c['name'] == $job_detail['category'])) ?> value="<?php echo $c['name']; ?>"><?php echo $clabel; ?></option>
+											<option <?php echo set_select('category', $c['id'], ($c['id'] == $job_detail['category'])) ?> value="<?php echo $c['id']; ?>"><?php echo $clabel; ?></option>
 										<?php endforeach; ?>
 									</optgroup>
 								<?php endif; ?>
@@ -172,7 +172,7 @@ $this->session->set_userdata('private_key', $private_key);
 						<input type="hidden" name="form_id" value="<?php echo $encrypt_key; ?>" />
 						<input type="hidden" name="public_key" value="<?php echo $public_key; ?>" />
 						<input type="hidden" name="job_id" value="<?php echo $job_id; ?>" />
-						<input type="submit" value="<?php echo $this->lang->line('btn_save_job'); ?>" class="btn" />
+						<input type="submit" value="<?php echo $this->lang->line('btn_save_job'); ?>" class="btn btn-primary" />
 					</div>
 				</div>
 				

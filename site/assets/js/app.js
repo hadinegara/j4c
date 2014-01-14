@@ -41,4 +41,12 @@ $(function(){
 			return false;
 		});
 	});
+    
+    // global tabs
+    $(".global-tabs a").each(function(){
+        $(this).bind('click', function(e){
+            e.preventDefault();
+            $(this).tab('show');
+        })
+    });
 });

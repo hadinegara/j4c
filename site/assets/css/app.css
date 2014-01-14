@@ -51,6 +51,15 @@
 }
 /** END OF CORE --------- */
 
+/** OVERRIDE ------------ */
+.nav-tabs > li.brand > * {
+    display:  block;
+    padding: 8px 12px;
+    line-height: 20px;
+    margin-right: 15px;
+    font-size: 16px;
+}
+/** END OF OVERRIDE ----- */
 
 /** --------------------- */
 /** HEADER */
@@ -421,25 +430,32 @@
 	border-left: 7px solid transparent;
 }
 .widget-body {
-	border-top: 1px solid #08AEEA;
-	padding: 15px 0;
+	border: 1px solid #CCC;
+    border-top-color: #08AEEA;
+	padding: 10px;
+}
+.widget-body .widget-desc {
+	padding-bottom: 5px;
+	font-weight: bold;
 }
 .widget-row {
-	border-top: 1px dashed #CCC;
+	border-top: 1px dotted #CCC;
 	padding: 7px 0;
 }
 .widget-row:first-child {
 	border-top: none;
 }
 .widget-row a,
-.widget-row small {
-	display: block;
+.widget-row .small {
 	line-height: 1.3em;
 	font-size: 13px;
 }
 .widget-row a {
 	font-weight: bold;
 	line-height: 1.5em;
+}
+.widget-row .small {
+	font-size: 12px;
 }
 
 .highlight {
@@ -450,6 +466,22 @@
 }
 /** END OF BODY --------- */
 
+
+.list-float {
+    list-style-position: inside;
+    margin: 0;
+    padding: 0;
+}
+.list-float li {
+    float: left;
+    width: 33%;
+}
+.list-float li.clearfix {
+    float: none;
+    clear: both;
+    list-style-type: none;
+    height: 0;
+}
 
 .show-grid [class*="span"] {
 	box-shadow: 0 0 1px #000;

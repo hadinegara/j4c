@@ -3,6 +3,13 @@
 		<div>
 			<label for="search"><?php echo $this->lang->line('label_type_keyword'); ?></label>
 		</div>
+		
+		<?php if(@$error_simple_search != ''): ?>
+			<div class="alert alert-error">
+				<?php echo $error_simple_search; ?>
+			</div>
+		<?php endif; ?>
+		
 		<div class="controls controls-row">
 			<input type="text" name="search" id="search" class="span4" />
 			<select name="location" id="location" class="span2">

@@ -8,19 +8,18 @@ $alert_status = $this->session->flashdata('alert_status');
 	</div>
 <?php endif; ?>
 
-<table class="table">
-	<thead>
-		<th>No</th>
-		<th><?php echo $this->lang->line('label_title'); ?></th>
-		<th><?php echo $this->lang->line('label_date_create'); ?></th>
-		<th><?php echo $this->lang->line('label_date_close'); ?></th>
-		<th><div class="text-right"><?php echo $this->lang->line('label_applicant'); ?></div></th>
-		<th><?php echo $this->lang->line('label_status'); ?></th>
-		<th><?php echo $this->lang->line('label_action'); ?></th>
-	</thead>
-	<tbody>
-		
-		<?php if(is_array($posted_job) && count($posted_job)>0): ?>
+<?php if(is_array($posted_job) && count($posted_job)>0): ?>
+	<table class="table">
+		<thead>
+			<th>No</th>
+			<th><?php echo $this->lang->line('label_title'); ?></th>
+			<th><?php echo $this->lang->line('label_date_create'); ?></th>
+			<th><?php echo $this->lang->line('label_date_close'); ?></th>
+			<th><div class="text-right"><?php echo $this->lang->line('label_applicant'); ?></div></th>
+			<th><?php echo $this->lang->line('label_status'); ?></th>
+			<th><?php echo $this->lang->line('label_action'); ?></th>
+		</thead>
+		<tbody>			
 			<?php foreach($posted_job as $i=>$row): ?>
 				<tr class="<?php echo ($row['status'] == 'reject') ? 'muted' : ''; ?>">
 					<td><?php echo ($i+1); ?></td>
@@ -92,13 +91,8 @@ $alert_status = $this->session->flashdata('alert_status');
 					</td>
 				</tr>
 			<?php endforeach; ?>
-		<?php else: ?>
-			<tr>
-				<td colspan="5">
-					<?php echo $this->lang->line('message_no_posted_job'); ?>
-				</td>
-			</tr>
-		<?php endif; ?>
-	
-	</tbody>	
-</table>
+		</tbody>
+	</table>
+<?php else: ?>
+	<?php echo $this->lang->line('msg_no_posted_job'); ?>
+<?php endif; ?>
