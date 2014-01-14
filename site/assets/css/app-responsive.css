@@ -5,7 +5,7 @@
 		background-color: #00F;
 		color: #FFF;
 		display: block;
-		position: absolute;
+		position: fixed;
 		top: 3px;
 		left: 3px;
 		z-index: 10000;
@@ -21,7 +21,7 @@
 		background-color: #00F;
 		color: #FFF;
 		display: block;
-		position: absolute;
+		position: fixed;
 		top: 3px;
 		left: 3px;
 		z-index: 10000;
@@ -43,7 +43,7 @@
 		background-color: #00F;
 		color: #FFF;
 		display: block;
-		position: absolute;
+		position: fixed;
 		top: 3px;
 		left: 3px;
 		z-index: 10000;
@@ -372,6 +372,12 @@
 		margin-top: 15px !important;
 	}
 	/* end of resume */
+    
+    /* list-float */
+    .list-float li {
+        width: 50%;
+    }
+    /* end of list-float */
 }
  
 /* Landscape phones and down */
@@ -494,4 +500,10 @@
 	.part-item .w65 {
 		margin-bottom: 10px;
 	}
+    
+    /* list-float */
+    .list-float li {
+        width: 100%;
+    }
+    /* end of list-float */
 }

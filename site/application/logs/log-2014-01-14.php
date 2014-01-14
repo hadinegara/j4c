@@ -3962,3 +3962,3934 @@ DEBUG - 2014-01-14 19:48:39 --> File loaded: application/views/menu/main.php
 DEBUG - 2014-01-14 19:48:39 --> File loaded: application/views/default.php
 DEBUG - 2014-01-14 19:48:39 --> Final output sent to browser
 DEBUG - 2014-01-14 19:48:39 --> Total execution time: 0.2136
+DEBUG - 2014-01-14 20:32:25 --> Config Class Initialized
+DEBUG - 2014-01-14 20:32:25 --> Hooks Class Initialized
+DEBUG - 2014-01-14 20:32:25 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 20:32:25 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 20:32:25 --> URI Class Initialized
+DEBUG - 2014-01-14 20:32:25 --> Router Class Initialized
+DEBUG - 2014-01-14 20:32:25 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 20:32:25 --> Output Class Initialized
+DEBUG - 2014-01-14 20:32:25 --> Security Class Initialized
+DEBUG - 2014-01-14 20:32:25 --> Input Class Initialized
+DEBUG - 2014-01-14 20:32:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 20:32:25 --> Language Class Initialized
+DEBUG - 2014-01-14 20:32:25 --> Loader Class Initialized
+DEBUG - 2014-01-14 20:32:25 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 20:32:25 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 20:32:25 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 20:32:25 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 20:32:25 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 20:32:25 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 20:32:25 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 20:32:26 --> Session Class Initialized
+DEBUG - 2014-01-14 20:32:26 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 20:32:26 --> Session routines successfully run
+DEBUG - 2014-01-14 20:32:26 --> Controller Class Initialized
+DEBUG - 2014-01-14 20:32:26 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 20:32:26 --> Model Class Initialized
+DEBUG - 2014-01-14 20:32:26 --> Model Class Initialized
+DEBUG - 2014-01-14 20:32:26 --> Model Class Initialized
+ERROR - 2014-01-14 20:32:26 --> Severity: Warning  --> Illegal string offset 'location' D:\WWW-Root\GitHub\j4c\site\application\models\job_model.php 372
+ERROR - 2014-01-14 20:32:26 --> Severity: Warning  --> Illegal string offset 'nums' D:\WWW-Root\GitHub\j4c\site\application\models\job_model.php 372
+ERROR - 2014-01-14 20:32:26 --> Severity: Warning  --> Illegal string offset 'location' D:\WWW-Root\GitHub\j4c\site\application\models\job_model.php 372
+ERROR - 2014-01-14 20:32:26 --> Severity: Warning  --> Illegal string offset 'nums' D:\WWW-Root\GitHub\j4c\site\application\models\job_model.php 372
+ERROR - 2014-01-14 20:32:26 --> Severity: Warning  --> Illegal string offset 'category' D:\WWW-Root\GitHub\j4c\site\application\models\job_model.php 382
+ERROR - 2014-01-14 20:32:26 --> Severity: Warning  --> Illegal string offset 'nums' D:\WWW-Root\GitHub\j4c\site\application\models\job_model.php 382
+ERROR - 2014-01-14 20:32:26 --> Severity: Warning  --> Illegal string offset 'category' D:\WWW-Root\GitHub\j4c\site\application\models\job_model.php 382
+ERROR - 2014-01-14 20:32:26 --> Severity: Warning  --> Illegal string offset 'nums' D:\WWW-Root\GitHub\j4c\site\application\models\job_model.php 382
+DEBUG - 2014-01-14 20:36:34 --> Config Class Initialized
+DEBUG - 2014-01-14 20:36:34 --> Hooks Class Initialized
+DEBUG - 2014-01-14 20:36:34 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 20:36:34 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 20:36:34 --> URI Class Initialized
+DEBUG - 2014-01-14 20:36:34 --> Router Class Initialized
+DEBUG - 2014-01-14 20:36:34 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 20:36:34 --> Output Class Initialized
+DEBUG - 2014-01-14 20:36:34 --> Security Class Initialized
+DEBUG - 2014-01-14 20:36:34 --> Input Class Initialized
+DEBUG - 2014-01-14 20:36:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 20:36:34 --> Language Class Initialized
+DEBUG - 2014-01-14 20:36:34 --> Loader Class Initialized
+DEBUG - 2014-01-14 20:36:34 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 20:36:34 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 20:36:34 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 20:36:34 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 20:36:34 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 20:36:34 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 20:36:34 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 20:36:34 --> Session Class Initialized
+DEBUG - 2014-01-14 20:36:34 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 20:36:34 --> Session routines successfully run
+DEBUG - 2014-01-14 20:36:34 --> Controller Class Initialized
+DEBUG - 2014-01-14 20:36:34 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 20:36:34 --> Model Class Initialized
+DEBUG - 2014-01-14 20:36:34 --> Model Class Initialized
+DEBUG - 2014-01-14 20:36:34 --> Model Class Initialized
+ERROR - 2014-01-14 20:36:34 --> Severity: Warning  --> Illegal string offset 'location' D:\WWW-Root\GitHub\j4c\site\application\models\job_model.php 372
+ERROR - 2014-01-14 20:36:34 --> Severity: Warning  --> Illegal string offset 'nums' D:\WWW-Root\GitHub\j4c\site\application\models\job_model.php 372
+ERROR - 2014-01-14 20:36:34 --> Severity: Warning  --> Illegal string offset 'location' D:\WWW-Root\GitHub\j4c\site\application\models\job_model.php 372
+ERROR - 2014-01-14 20:36:34 --> Severity: Warning  --> Illegal string offset 'nums' D:\WWW-Root\GitHub\j4c\site\application\models\job_model.php 372
+ERROR - 2014-01-14 20:36:34 --> Severity: Warning  --> Illegal string offset 'category' D:\WWW-Root\GitHub\j4c\site\application\models\job_model.php 382
+ERROR - 2014-01-14 20:36:34 --> Severity: Warning  --> Illegal string offset 'category' D:\WWW-Root\GitHub\j4c\site\application\models\job_model.php 382
+DEBUG - 2014-01-14 20:37:02 --> Config Class Initialized
+DEBUG - 2014-01-14 20:37:02 --> Hooks Class Initialized
+DEBUG - 2014-01-14 20:37:02 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 20:37:02 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 20:37:02 --> URI Class Initialized
+DEBUG - 2014-01-14 20:37:02 --> Router Class Initialized
+DEBUG - 2014-01-14 20:37:02 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 20:37:02 --> Output Class Initialized
+DEBUG - 2014-01-14 20:37:02 --> Security Class Initialized
+DEBUG - 2014-01-14 20:37:02 --> Input Class Initialized
+DEBUG - 2014-01-14 20:37:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 20:37:02 --> Language Class Initialized
+DEBUG - 2014-01-14 20:37:02 --> Loader Class Initialized
+DEBUG - 2014-01-14 20:37:02 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 20:37:02 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 20:37:02 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 20:37:02 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 20:37:02 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 20:37:02 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 20:37:02 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 20:37:02 --> Session Class Initialized
+DEBUG - 2014-01-14 20:37:02 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 20:37:02 --> Session routines successfully run
+DEBUG - 2014-01-14 20:37:02 --> Controller Class Initialized
+DEBUG - 2014-01-14 20:37:02 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 20:37:02 --> Model Class Initialized
+DEBUG - 2014-01-14 20:37:02 --> Model Class Initialized
+DEBUG - 2014-01-14 20:37:02 --> Model Class Initialized
+DEBUG - 2014-01-14 20:52:30 --> Config Class Initialized
+DEBUG - 2014-01-14 20:52:30 --> Hooks Class Initialized
+DEBUG - 2014-01-14 20:52:30 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 20:52:30 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 20:52:30 --> URI Class Initialized
+DEBUG - 2014-01-14 20:52:30 --> Router Class Initialized
+DEBUG - 2014-01-14 20:52:30 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 20:52:30 --> Output Class Initialized
+DEBUG - 2014-01-14 20:52:30 --> Security Class Initialized
+DEBUG - 2014-01-14 20:52:30 --> Input Class Initialized
+DEBUG - 2014-01-14 20:52:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 20:52:30 --> Language Class Initialized
+DEBUG - 2014-01-14 20:52:30 --> Loader Class Initialized
+DEBUG - 2014-01-14 20:52:30 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 20:52:30 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 20:52:30 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 20:52:30 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 20:52:30 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 20:52:30 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 20:52:30 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 20:52:30 --> Session Class Initialized
+DEBUG - 2014-01-14 20:52:30 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 20:52:30 --> Session routines successfully run
+DEBUG - 2014-01-14 20:52:30 --> Controller Class Initialized
+DEBUG - 2014-01-14 20:52:30 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 20:52:30 --> Model Class Initialized
+DEBUG - 2014-01-14 20:52:30 --> Model Class Initialized
+DEBUG - 2014-01-14 20:52:30 --> Model Class Initialized
+DEBUG - 2014-01-14 20:52:30 --> File loaded: application/views/home/front-search.php
+DEBUG - 2014-01-14 20:52:30 --> File loaded: application/views/home/summary-location.php
+ERROR - 2014-01-14 20:52:30 --> Severity: Notice  --> Undefined index: id D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-company.php 3
+ERROR - 2014-01-14 20:52:30 --> Severity: Notice  --> Undefined index:  D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-company.php 3
+ERROR - 2014-01-14 20:52:30 --> Severity: Notice  --> Undefined index: id D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-company.php 3
+ERROR - 2014-01-14 20:52:30 --> Severity: Notice  --> Undefined index:  D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-company.php 3
+ERROR - 2014-01-14 20:52:30 --> Severity: Notice  --> Undefined index: id D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-company.php 3
+ERROR - 2014-01-14 20:52:30 --> Severity: Notice  --> Undefined index:  D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-company.php 3
+DEBUG - 2014-01-14 20:52:30 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 20:52:30 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 20:52:30 --> Model Class Initialized
+DEBUG - 2014-01-14 20:52:31 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 20:52:31 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 20:52:31 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 20:52:31 --> Final output sent to browser
+DEBUG - 2014-01-14 20:52:31 --> Total execution time: 0.5211
+DEBUG - 2014-01-14 20:52:48 --> Config Class Initialized
+DEBUG - 2014-01-14 20:52:48 --> Hooks Class Initialized
+DEBUG - 2014-01-14 20:52:48 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 20:52:48 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 20:52:48 --> URI Class Initialized
+DEBUG - 2014-01-14 20:52:48 --> Router Class Initialized
+DEBUG - 2014-01-14 20:52:48 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 20:52:48 --> Output Class Initialized
+DEBUG - 2014-01-14 20:52:48 --> Security Class Initialized
+DEBUG - 2014-01-14 20:52:48 --> Input Class Initialized
+DEBUG - 2014-01-14 20:52:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 20:52:48 --> Language Class Initialized
+DEBUG - 2014-01-14 20:52:48 --> Loader Class Initialized
+DEBUG - 2014-01-14 20:52:48 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 20:52:48 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 20:52:48 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 20:52:48 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 20:52:48 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 20:52:48 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 20:52:48 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 20:52:48 --> Session Class Initialized
+DEBUG - 2014-01-14 20:52:48 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 20:52:48 --> Session routines successfully run
+DEBUG - 2014-01-14 20:52:48 --> Controller Class Initialized
+DEBUG - 2014-01-14 20:52:48 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 20:52:48 --> Model Class Initialized
+DEBUG - 2014-01-14 20:52:48 --> Model Class Initialized
+DEBUG - 2014-01-14 20:52:48 --> Model Class Initialized
+DEBUG - 2014-01-14 20:52:48 --> File loaded: application/views/home/front-search.php
+DEBUG - 2014-01-14 20:52:48 --> File loaded: application/views/home/summary-location.php
+ERROR - 2014-01-14 20:52:48 --> Severity: Notice  --> Undefined offset: 3 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-company.php 3
+ERROR - 2014-01-14 20:52:48 --> Severity: Notice  --> Undefined offset: 1 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-company.php 3
+ERROR - 2014-01-14 20:52:48 --> Severity: Notice  --> Undefined offset: 2 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-company.php 3
+DEBUG - 2014-01-14 20:52:48 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 20:52:48 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 20:52:48 --> Model Class Initialized
+DEBUG - 2014-01-14 20:52:48 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 20:52:48 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 20:52:48 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 20:52:48 --> Final output sent to browser
+DEBUG - 2014-01-14 20:52:48 --> Total execution time: 0.3163
+DEBUG - 2014-01-14 20:53:13 --> Config Class Initialized
+DEBUG - 2014-01-14 20:53:13 --> Hooks Class Initialized
+DEBUG - 2014-01-14 20:53:13 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 20:53:13 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 20:53:13 --> URI Class Initialized
+DEBUG - 2014-01-14 20:53:13 --> Router Class Initialized
+DEBUG - 2014-01-14 20:53:13 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 20:53:13 --> Output Class Initialized
+DEBUG - 2014-01-14 20:53:13 --> Security Class Initialized
+DEBUG - 2014-01-14 20:53:13 --> Input Class Initialized
+DEBUG - 2014-01-14 20:53:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 20:53:13 --> Language Class Initialized
+DEBUG - 2014-01-14 20:53:13 --> Loader Class Initialized
+DEBUG - 2014-01-14 20:53:13 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 20:53:13 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 20:53:13 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 20:53:13 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 20:53:13 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 20:53:13 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 20:53:13 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 20:53:13 --> Session Class Initialized
+DEBUG - 2014-01-14 20:53:13 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 20:53:13 --> Session routines successfully run
+DEBUG - 2014-01-14 20:53:13 --> Controller Class Initialized
+DEBUG - 2014-01-14 20:53:13 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 20:53:13 --> Model Class Initialized
+DEBUG - 2014-01-14 20:53:13 --> Model Class Initialized
+DEBUG - 2014-01-14 20:53:13 --> Model Class Initialized
+DEBUG - 2014-01-14 20:53:13 --> File loaded: application/views/home/front-search.php
+DEBUG - 2014-01-14 20:53:13 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 20:53:13 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 20:53:13 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 20:53:13 --> Model Class Initialized
+DEBUG - 2014-01-14 20:53:13 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 20:53:13 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 20:53:13 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 20:53:13 --> Final output sent to browser
+DEBUG - 2014-01-14 20:53:13 --> Total execution time: 0.2658
+DEBUG - 2014-01-14 20:53:35 --> Config Class Initialized
+DEBUG - 2014-01-14 20:53:35 --> Hooks Class Initialized
+DEBUG - 2014-01-14 20:53:35 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 20:53:35 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 20:53:35 --> URI Class Initialized
+DEBUG - 2014-01-14 20:53:35 --> Router Class Initialized
+DEBUG - 2014-01-14 20:53:35 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 20:53:35 --> Output Class Initialized
+DEBUG - 2014-01-14 20:53:35 --> Security Class Initialized
+DEBUG - 2014-01-14 20:53:35 --> Input Class Initialized
+DEBUG - 2014-01-14 20:53:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 20:53:35 --> Language Class Initialized
+DEBUG - 2014-01-14 20:53:35 --> Loader Class Initialized
+DEBUG - 2014-01-14 20:53:35 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 20:53:35 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 20:53:35 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 20:53:35 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 20:53:35 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 20:53:35 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 20:53:35 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 20:53:35 --> Session Class Initialized
+DEBUG - 2014-01-14 20:53:35 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 20:53:35 --> Session routines successfully run
+DEBUG - 2014-01-14 20:53:35 --> Controller Class Initialized
+DEBUG - 2014-01-14 20:53:35 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 20:53:35 --> Model Class Initialized
+DEBUG - 2014-01-14 20:53:35 --> Model Class Initialized
+DEBUG - 2014-01-14 20:53:35 --> Model Class Initialized
+DEBUG - 2014-01-14 20:53:35 --> File loaded: application/views/home/front-search.php
+DEBUG - 2014-01-14 20:53:35 --> File loaded: application/views/home/summary-location.php
+ERROR - 2014-01-14 20:53:35 --> Severity: Notice  --> Undefined index: cosmpany_id D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-company.php 3
+ERROR - 2014-01-14 20:53:35 --> Severity: Notice  --> Undefined index:  D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-company.php 3
+ERROR - 2014-01-14 20:53:35 --> Severity: Notice  --> Undefined index: cosmpany_id D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-company.php 3
+ERROR - 2014-01-14 20:53:35 --> Severity: Notice  --> Undefined index:  D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-company.php 3
+ERROR - 2014-01-14 20:53:35 --> Severity: Notice  --> Undefined index: cosmpany_id D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-company.php 3
+ERROR - 2014-01-14 20:53:35 --> Severity: Notice  --> Undefined index:  D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-company.php 3
+DEBUG - 2014-01-14 20:53:35 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 20:53:35 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 20:53:35 --> Model Class Initialized
+DEBUG - 2014-01-14 20:53:35 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 20:53:35 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 20:53:35 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 20:53:35 --> Final output sent to browser
+DEBUG - 2014-01-14 20:53:35 --> Total execution time: 0.1990
+DEBUG - 2014-01-14 20:53:43 --> Config Class Initialized
+DEBUG - 2014-01-14 20:53:43 --> Hooks Class Initialized
+DEBUG - 2014-01-14 20:53:43 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 20:53:43 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 20:53:43 --> URI Class Initialized
+DEBUG - 2014-01-14 20:53:43 --> Router Class Initialized
+DEBUG - 2014-01-14 20:53:43 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 20:53:43 --> Output Class Initialized
+DEBUG - 2014-01-14 20:53:43 --> Security Class Initialized
+DEBUG - 2014-01-14 20:53:43 --> Input Class Initialized
+DEBUG - 2014-01-14 20:53:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 20:53:43 --> Language Class Initialized
+DEBUG - 2014-01-14 20:53:43 --> Loader Class Initialized
+DEBUG - 2014-01-14 20:53:43 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 20:53:43 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 20:53:43 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 20:53:43 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 20:53:43 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 20:53:43 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 20:53:43 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 20:53:43 --> Session Class Initialized
+DEBUG - 2014-01-14 20:53:43 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 20:53:43 --> Session routines successfully run
+DEBUG - 2014-01-14 20:53:43 --> Controller Class Initialized
+DEBUG - 2014-01-14 20:53:43 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 20:53:43 --> Model Class Initialized
+DEBUG - 2014-01-14 20:53:43 --> Model Class Initialized
+DEBUG - 2014-01-14 20:53:43 --> Model Class Initialized
+DEBUG - 2014-01-14 20:53:43 --> File loaded: application/views/home/front-search.php
+DEBUG - 2014-01-14 20:53:43 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 20:53:43 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 20:53:43 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 20:53:43 --> Model Class Initialized
+DEBUG - 2014-01-14 20:53:43 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 20:53:43 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 20:53:43 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 20:53:43 --> Final output sent to browser
+DEBUG - 2014-01-14 20:53:43 --> Total execution time: 0.2479
+DEBUG - 2014-01-14 20:54:32 --> Config Class Initialized
+DEBUG - 2014-01-14 20:54:32 --> Hooks Class Initialized
+DEBUG - 2014-01-14 20:54:32 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 20:54:32 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 20:54:32 --> URI Class Initialized
+DEBUG - 2014-01-14 20:54:32 --> Router Class Initialized
+DEBUG - 2014-01-14 20:54:32 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 20:54:32 --> Output Class Initialized
+DEBUG - 2014-01-14 20:54:32 --> Security Class Initialized
+DEBUG - 2014-01-14 20:54:32 --> Input Class Initialized
+DEBUG - 2014-01-14 20:54:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 20:54:32 --> Language Class Initialized
+DEBUG - 2014-01-14 20:54:32 --> Loader Class Initialized
+DEBUG - 2014-01-14 20:54:32 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 20:54:32 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 20:54:32 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 20:54:32 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 20:54:32 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 20:54:32 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 20:54:32 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 20:54:32 --> Session Class Initialized
+DEBUG - 2014-01-14 20:54:32 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 20:54:32 --> Session routines successfully run
+DEBUG - 2014-01-14 20:54:32 --> Controller Class Initialized
+DEBUG - 2014-01-14 20:54:32 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 20:54:32 --> Model Class Initialized
+DEBUG - 2014-01-14 20:54:32 --> Model Class Initialized
+DEBUG - 2014-01-14 20:54:32 --> Model Class Initialized
+DEBUG - 2014-01-14 20:54:32 --> File loaded: application/views/home/front-search.php
+DEBUG - 2014-01-14 20:54:32 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 20:54:32 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 20:54:32 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 20:54:32 --> Model Class Initialized
+DEBUG - 2014-01-14 20:54:32 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 20:54:32 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 20:54:32 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 20:54:32 --> Final output sent to browser
+DEBUG - 2014-01-14 20:54:32 --> Total execution time: 0.2643
+DEBUG - 2014-01-14 20:56:24 --> Config Class Initialized
+DEBUG - 2014-01-14 20:56:24 --> Hooks Class Initialized
+DEBUG - 2014-01-14 20:56:24 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 20:56:24 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 20:56:24 --> URI Class Initialized
+DEBUG - 2014-01-14 20:56:24 --> Router Class Initialized
+DEBUG - 2014-01-14 20:56:24 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 20:56:24 --> Output Class Initialized
+DEBUG - 2014-01-14 20:56:24 --> Security Class Initialized
+DEBUG - 2014-01-14 20:56:24 --> Input Class Initialized
+DEBUG - 2014-01-14 20:56:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 20:56:24 --> Language Class Initialized
+DEBUG - 2014-01-14 20:56:24 --> Loader Class Initialized
+DEBUG - 2014-01-14 20:56:24 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 20:56:24 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 20:56:24 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 20:56:24 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 20:56:24 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 20:56:24 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 20:56:24 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 20:56:24 --> Session Class Initialized
+DEBUG - 2014-01-14 20:56:24 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 20:56:24 --> Session routines successfully run
+DEBUG - 2014-01-14 20:56:24 --> Controller Class Initialized
+DEBUG - 2014-01-14 20:56:24 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 20:56:24 --> Model Class Initialized
+DEBUG - 2014-01-14 20:56:24 --> Model Class Initialized
+DEBUG - 2014-01-14 20:56:24 --> Model Class Initialized
+DEBUG - 2014-01-14 20:56:24 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 1 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 2 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 3 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 4 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 5 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 6 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 7 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 8 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 9 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 10 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 11 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 12 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 13 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 14 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 15 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 16 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 17 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 18 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 19 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 20 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 21 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 22 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 23 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 24 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 25 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 26 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 27 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 28 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 29 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 30 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 31 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 32 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:24 --> Severity: Notice  --> Undefined offset: 33 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 20:56:24 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 20:56:24 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 20:56:24 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 20:56:24 --> Model Class Initialized
+DEBUG - 2014-01-14 20:56:24 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 20:56:24 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 20:56:24 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 20:56:24 --> Final output sent to browser
+DEBUG - 2014-01-14 20:56:24 --> Total execution time: 0.2532
+DEBUG - 2014-01-14 20:56:52 --> Config Class Initialized
+DEBUG - 2014-01-14 20:56:52 --> Hooks Class Initialized
+DEBUG - 2014-01-14 20:56:52 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 20:56:52 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 20:56:52 --> URI Class Initialized
+DEBUG - 2014-01-14 20:56:52 --> Router Class Initialized
+DEBUG - 2014-01-14 20:56:52 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 20:56:52 --> Output Class Initialized
+DEBUG - 2014-01-14 20:56:52 --> Security Class Initialized
+DEBUG - 2014-01-14 20:56:52 --> Input Class Initialized
+DEBUG - 2014-01-14 20:56:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 20:56:52 --> Language Class Initialized
+DEBUG - 2014-01-14 20:56:52 --> Loader Class Initialized
+DEBUG - 2014-01-14 20:56:52 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 20:56:52 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 20:56:52 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 20:56:52 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 20:56:52 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 20:56:52 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 20:56:52 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 20:56:52 --> Session Class Initialized
+DEBUG - 2014-01-14 20:56:52 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 20:56:52 --> Session routines successfully run
+DEBUG - 2014-01-14 20:56:52 --> Controller Class Initialized
+DEBUG - 2014-01-14 20:56:52 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 20:56:52 --> Model Class Initialized
+DEBUG - 2014-01-14 20:56:52 --> Model Class Initialized
+DEBUG - 2014-01-14 20:56:52 --> Model Class Initialized
+DEBUG - 2014-01-14 20:56:52 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:56:52 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 20:56:52 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 20:56:52 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 20:56:52 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 20:56:52 --> Model Class Initialized
+DEBUG - 2014-01-14 20:56:52 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 20:56:52 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 20:56:52 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 20:56:52 --> Final output sent to browser
+DEBUG - 2014-01-14 20:56:52 --> Total execution time: 0.3634
+DEBUG - 2014-01-14 20:57:31 --> Config Class Initialized
+DEBUG - 2014-01-14 20:57:31 --> Hooks Class Initialized
+DEBUG - 2014-01-14 20:57:31 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 20:57:31 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 20:57:31 --> URI Class Initialized
+DEBUG - 2014-01-14 20:57:31 --> Router Class Initialized
+DEBUG - 2014-01-14 20:57:31 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 20:57:31 --> Output Class Initialized
+DEBUG - 2014-01-14 20:57:31 --> Security Class Initialized
+DEBUG - 2014-01-14 20:57:31 --> Input Class Initialized
+DEBUG - 2014-01-14 20:57:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 20:57:31 --> Language Class Initialized
+DEBUG - 2014-01-14 20:57:31 --> Loader Class Initialized
+DEBUG - 2014-01-14 20:57:31 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 20:57:31 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 20:57:31 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 20:57:31 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 20:57:31 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 20:57:31 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 20:57:31 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 20:57:31 --> Session Class Initialized
+DEBUG - 2014-01-14 20:57:31 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 20:57:31 --> Session routines successfully run
+DEBUG - 2014-01-14 20:57:31 --> Controller Class Initialized
+DEBUG - 2014-01-14 20:57:31 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 20:57:31 --> Model Class Initialized
+DEBUG - 2014-01-14 20:57:31 --> Model Class Initialized
+DEBUG - 2014-01-14 20:57:31 --> Model Class Initialized
+DEBUG - 2014-01-14 20:57:32 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:57:32 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 20:57:32 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 20:57:32 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 20:57:32 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 20:57:32 --> Model Class Initialized
+DEBUG - 2014-01-14 20:57:32 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 20:57:32 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 20:57:32 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 20:57:32 --> Final output sent to browser
+DEBUG - 2014-01-14 20:57:32 --> Total execution time: 0.2425
+DEBUG - 2014-01-14 20:59:40 --> Config Class Initialized
+DEBUG - 2014-01-14 20:59:40 --> Hooks Class Initialized
+DEBUG - 2014-01-14 20:59:40 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 20:59:40 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 20:59:40 --> URI Class Initialized
+DEBUG - 2014-01-14 20:59:40 --> Router Class Initialized
+DEBUG - 2014-01-14 20:59:40 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 20:59:40 --> Output Class Initialized
+DEBUG - 2014-01-14 20:59:40 --> Security Class Initialized
+DEBUG - 2014-01-14 20:59:40 --> Input Class Initialized
+DEBUG - 2014-01-14 20:59:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 20:59:40 --> Language Class Initialized
+DEBUG - 2014-01-14 20:59:40 --> Loader Class Initialized
+DEBUG - 2014-01-14 20:59:40 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 20:59:40 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 20:59:40 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 20:59:40 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 20:59:40 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 20:59:40 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 20:59:40 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 20:59:40 --> Session Class Initialized
+DEBUG - 2014-01-14 20:59:40 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 20:59:40 --> A session cookie was not found.
+DEBUG - 2014-01-14 20:59:40 --> Session routines successfully run
+DEBUG - 2014-01-14 20:59:40 --> Controller Class Initialized
+DEBUG - 2014-01-14 20:59:40 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 20:59:40 --> Model Class Initialized
+DEBUG - 2014-01-14 20:59:40 --> Model Class Initialized
+DEBUG - 2014-01-14 20:59:40 --> Model Class Initialized
+DEBUG - 2014-01-14 20:59:40 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:40 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 20:59:40 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 20:59:40 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 20:59:40 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 20:59:40 --> Model Class Initialized
+DEBUG - 2014-01-14 20:59:40 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 20:59:40 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 20:59:40 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 20:59:40 --> Final output sent to browser
+DEBUG - 2014-01-14 20:59:40 --> Total execution time: 0.2964
+DEBUG - 2014-01-14 20:59:44 --> Config Class Initialized
+DEBUG - 2014-01-14 20:59:44 --> Hooks Class Initialized
+DEBUG - 2014-01-14 20:59:44 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 20:59:44 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 20:59:44 --> URI Class Initialized
+DEBUG - 2014-01-14 20:59:44 --> Router Class Initialized
+DEBUG - 2014-01-14 20:59:44 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 20:59:44 --> Output Class Initialized
+DEBUG - 2014-01-14 20:59:44 --> Security Class Initialized
+DEBUG - 2014-01-14 20:59:44 --> Input Class Initialized
+DEBUG - 2014-01-14 20:59:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 20:59:44 --> Language Class Initialized
+DEBUG - 2014-01-14 20:59:44 --> Loader Class Initialized
+DEBUG - 2014-01-14 20:59:44 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 20:59:44 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 20:59:44 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 20:59:44 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 20:59:44 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 20:59:44 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 20:59:44 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 20:59:44 --> Session Class Initialized
+DEBUG - 2014-01-14 20:59:44 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 20:59:44 --> Session routines successfully run
+DEBUG - 2014-01-14 20:59:44 --> Controller Class Initialized
+DEBUG - 2014-01-14 20:59:44 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 20:59:44 --> Model Class Initialized
+DEBUG - 2014-01-14 20:59:44 --> Model Class Initialized
+DEBUG - 2014-01-14 20:59:44 --> Model Class Initialized
+DEBUG - 2014-01-14 20:59:44 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 20:59:44 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 20:59:44 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 20:59:44 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 20:59:44 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 20:59:44 --> Model Class Initialized
+DEBUG - 2014-01-14 20:59:44 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 20:59:44 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 20:59:44 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 20:59:44 --> Final output sent to browser
+DEBUG - 2014-01-14 20:59:44 --> Total execution time: 0.2178
+DEBUG - 2014-01-14 21:02:02 --> Config Class Initialized
+DEBUG - 2014-01-14 21:02:02 --> Hooks Class Initialized
+DEBUG - 2014-01-14 21:02:02 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 21:02:02 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 21:02:02 --> URI Class Initialized
+DEBUG - 2014-01-14 21:02:02 --> Router Class Initialized
+DEBUG - 2014-01-14 21:02:02 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 21:02:02 --> Output Class Initialized
+DEBUG - 2014-01-14 21:02:02 --> Security Class Initialized
+DEBUG - 2014-01-14 21:02:02 --> Input Class Initialized
+DEBUG - 2014-01-14 21:02:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 21:02:02 --> Language Class Initialized
+DEBUG - 2014-01-14 21:02:02 --> Loader Class Initialized
+DEBUG - 2014-01-14 21:02:02 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 21:02:02 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 21:02:02 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 21:02:02 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 21:02:02 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 21:02:02 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 21:02:02 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 21:02:02 --> Session Class Initialized
+DEBUG - 2014-01-14 21:02:02 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 21:02:02 --> Session routines successfully run
+DEBUG - 2014-01-14 21:02:02 --> Controller Class Initialized
+DEBUG - 2014-01-14 21:02:02 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 21:02:02 --> Model Class Initialized
+DEBUG - 2014-01-14 21:02:02 --> Model Class Initialized
+DEBUG - 2014-01-14 21:02:02 --> Model Class Initialized
+DEBUG - 2014-01-14 21:02:03 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:02:03 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 21:02:03 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 21:02:03 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 21:02:03 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 21:02:03 --> Model Class Initialized
+DEBUG - 2014-01-14 21:02:03 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 21:02:03 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 21:02:03 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 21:02:03 --> Final output sent to browser
+DEBUG - 2014-01-14 21:02:03 --> Total execution time: 0.2475
+DEBUG - 2014-01-14 21:03:43 --> Config Class Initialized
+DEBUG - 2014-01-14 21:03:43 --> Hooks Class Initialized
+DEBUG - 2014-01-14 21:03:43 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 21:03:43 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 21:03:43 --> URI Class Initialized
+DEBUG - 2014-01-14 21:03:43 --> Router Class Initialized
+DEBUG - 2014-01-14 21:03:43 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 21:03:43 --> Output Class Initialized
+DEBUG - 2014-01-14 21:03:43 --> Security Class Initialized
+DEBUG - 2014-01-14 21:03:43 --> Input Class Initialized
+DEBUG - 2014-01-14 21:03:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 21:03:43 --> Language Class Initialized
+DEBUG - 2014-01-14 21:03:43 --> Loader Class Initialized
+DEBUG - 2014-01-14 21:03:43 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 21:03:43 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 21:03:43 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 21:03:43 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 21:03:43 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 21:03:43 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 21:03:43 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 21:03:43 --> Session Class Initialized
+DEBUG - 2014-01-14 21:03:43 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 21:03:44 --> Session routines successfully run
+DEBUG - 2014-01-14 21:03:44 --> Controller Class Initialized
+DEBUG - 2014-01-14 21:03:44 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 21:03:44 --> Model Class Initialized
+DEBUG - 2014-01-14 21:03:44 --> Model Class Initialized
+DEBUG - 2014-01-14 21:03:44 --> Model Class Initialized
+DEBUG - 2014-01-14 21:03:44 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:03:44 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 21:03:44 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 21:03:44 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 21:03:44 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 21:03:44 --> Model Class Initialized
+DEBUG - 2014-01-14 21:03:44 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 21:03:44 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 21:03:44 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 21:03:44 --> Final output sent to browser
+DEBUG - 2014-01-14 21:03:44 --> Total execution time: 0.3587
+DEBUG - 2014-01-14 21:04:50 --> Config Class Initialized
+DEBUG - 2014-01-14 21:04:50 --> Hooks Class Initialized
+DEBUG - 2014-01-14 21:04:50 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 21:04:50 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 21:04:50 --> URI Class Initialized
+DEBUG - 2014-01-14 21:04:50 --> Router Class Initialized
+DEBUG - 2014-01-14 21:04:50 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 21:04:50 --> Output Class Initialized
+DEBUG - 2014-01-14 21:04:50 --> Security Class Initialized
+DEBUG - 2014-01-14 21:04:50 --> Input Class Initialized
+DEBUG - 2014-01-14 21:04:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 21:04:50 --> Language Class Initialized
+DEBUG - 2014-01-14 21:04:50 --> Loader Class Initialized
+DEBUG - 2014-01-14 21:04:50 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 21:04:50 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 21:04:50 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 21:04:50 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 21:04:50 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 21:04:50 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 21:04:50 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 21:04:50 --> Session Class Initialized
+DEBUG - 2014-01-14 21:04:50 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 21:04:50 --> Session routines successfully run
+DEBUG - 2014-01-14 21:04:50 --> Controller Class Initialized
+DEBUG - 2014-01-14 21:04:50 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 21:04:50 --> Model Class Initialized
+DEBUG - 2014-01-14 21:04:50 --> Model Class Initialized
+DEBUG - 2014-01-14 21:04:50 --> Model Class Initialized
+DEBUG - 2014-01-14 21:04:50 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:04:50 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 21:04:50 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 21:04:50 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 21:04:50 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 21:04:50 --> Model Class Initialized
+DEBUG - 2014-01-14 21:04:50 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 21:04:50 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 21:04:50 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 21:04:50 --> Final output sent to browser
+DEBUG - 2014-01-14 21:04:50 --> Total execution time: 0.2258
+DEBUG - 2014-01-14 21:05:52 --> Config Class Initialized
+DEBUG - 2014-01-14 21:05:52 --> Hooks Class Initialized
+DEBUG - 2014-01-14 21:05:52 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 21:05:52 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 21:05:52 --> URI Class Initialized
+DEBUG - 2014-01-14 21:05:52 --> Router Class Initialized
+DEBUG - 2014-01-14 21:05:52 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 21:05:52 --> Output Class Initialized
+DEBUG - 2014-01-14 21:05:52 --> Security Class Initialized
+DEBUG - 2014-01-14 21:05:52 --> Input Class Initialized
+DEBUG - 2014-01-14 21:05:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 21:05:52 --> Language Class Initialized
+DEBUG - 2014-01-14 21:05:52 --> Loader Class Initialized
+DEBUG - 2014-01-14 21:05:52 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 21:05:52 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 21:05:52 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 21:05:52 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 21:05:52 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 21:05:52 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 21:05:52 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 21:05:52 --> Session Class Initialized
+DEBUG - 2014-01-14 21:05:52 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 21:05:52 --> Session routines successfully run
+DEBUG - 2014-01-14 21:05:52 --> Controller Class Initialized
+DEBUG - 2014-01-14 21:05:52 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 21:05:52 --> Model Class Initialized
+DEBUG - 2014-01-14 21:05:52 --> Model Class Initialized
+DEBUG - 2014-01-14 21:05:52 --> Model Class Initialized
+DEBUG - 2014-01-14 21:05:52 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:52 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 21:05:52 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 21:05:52 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 21:05:52 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 21:05:52 --> Model Class Initialized
+DEBUG - 2014-01-14 21:05:52 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 21:05:52 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 21:05:52 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 21:05:52 --> Final output sent to browser
+DEBUG - 2014-01-14 21:05:52 --> Total execution time: 0.2035
+DEBUG - 2014-01-14 21:05:55 --> Config Class Initialized
+DEBUG - 2014-01-14 21:05:55 --> Hooks Class Initialized
+DEBUG - 2014-01-14 21:05:55 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 21:05:55 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 21:05:55 --> URI Class Initialized
+DEBUG - 2014-01-14 21:05:55 --> Router Class Initialized
+DEBUG - 2014-01-14 21:05:55 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 21:05:55 --> Output Class Initialized
+DEBUG - 2014-01-14 21:05:55 --> Security Class Initialized
+DEBUG - 2014-01-14 21:05:55 --> Input Class Initialized
+DEBUG - 2014-01-14 21:05:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 21:05:55 --> Language Class Initialized
+DEBUG - 2014-01-14 21:05:55 --> Loader Class Initialized
+DEBUG - 2014-01-14 21:05:55 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 21:05:55 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 21:05:55 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 21:05:55 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 21:05:55 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 21:05:55 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 21:05:55 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 21:05:55 --> Session Class Initialized
+DEBUG - 2014-01-14 21:05:55 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 21:05:55 --> Session routines successfully run
+DEBUG - 2014-01-14 21:05:55 --> Controller Class Initialized
+DEBUG - 2014-01-14 21:05:55 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 21:05:55 --> Model Class Initialized
+DEBUG - 2014-01-14 21:05:55 --> Model Class Initialized
+DEBUG - 2014-01-14 21:05:55 --> Model Class Initialized
+DEBUG - 2014-01-14 21:05:55 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:55 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 21:05:55 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 21:05:55 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 21:05:55 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 21:05:55 --> Model Class Initialized
+DEBUG - 2014-01-14 21:05:55 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 21:05:55 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 21:05:55 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 21:05:55 --> Final output sent to browser
+DEBUG - 2014-01-14 21:05:55 --> Total execution time: 0.2793
+DEBUG - 2014-01-14 21:05:59 --> Config Class Initialized
+DEBUG - 2014-01-14 21:05:59 --> Hooks Class Initialized
+DEBUG - 2014-01-14 21:05:59 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 21:05:59 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 21:05:59 --> URI Class Initialized
+DEBUG - 2014-01-14 21:05:59 --> Router Class Initialized
+DEBUG - 2014-01-14 21:05:59 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 21:05:59 --> Output Class Initialized
+DEBUG - 2014-01-14 21:05:59 --> Security Class Initialized
+DEBUG - 2014-01-14 21:05:59 --> Input Class Initialized
+DEBUG - 2014-01-14 21:05:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 21:05:59 --> Language Class Initialized
+DEBUG - 2014-01-14 21:05:59 --> Loader Class Initialized
+DEBUG - 2014-01-14 21:05:59 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 21:05:59 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 21:05:59 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 21:05:59 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 21:05:59 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 21:05:59 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 21:05:59 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 21:05:59 --> Session Class Initialized
+DEBUG - 2014-01-14 21:05:59 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 21:05:59 --> Session routines successfully run
+DEBUG - 2014-01-14 21:05:59 --> Controller Class Initialized
+DEBUG - 2014-01-14 21:05:59 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 21:05:59 --> Model Class Initialized
+DEBUG - 2014-01-14 21:05:59 --> Model Class Initialized
+DEBUG - 2014-01-14 21:05:59 --> Model Class Initialized
+DEBUG - 2014-01-14 21:05:59 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:05:59 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 21:05:59 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 21:05:59 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 21:05:59 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 21:05:59 --> Model Class Initialized
+DEBUG - 2014-01-14 21:05:59 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 21:05:59 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 21:05:59 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 21:05:59 --> Final output sent to browser
+DEBUG - 2014-01-14 21:05:59 --> Total execution time: 0.1958
+DEBUG - 2014-01-14 21:06:51 --> Config Class Initialized
+DEBUG - 2014-01-14 21:06:51 --> Hooks Class Initialized
+DEBUG - 2014-01-14 21:06:51 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 21:06:51 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 21:06:51 --> URI Class Initialized
+DEBUG - 2014-01-14 21:06:51 --> Router Class Initialized
+DEBUG - 2014-01-14 21:06:51 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 21:06:51 --> Output Class Initialized
+DEBUG - 2014-01-14 21:06:51 --> Security Class Initialized
+DEBUG - 2014-01-14 21:06:51 --> Input Class Initialized
+DEBUG - 2014-01-14 21:06:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 21:06:51 --> Language Class Initialized
+DEBUG - 2014-01-14 21:06:51 --> Loader Class Initialized
+DEBUG - 2014-01-14 21:06:51 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 21:06:51 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 21:06:51 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 21:06:51 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 21:06:51 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 21:06:51 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 21:06:51 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 21:06:51 --> Session Class Initialized
+DEBUG - 2014-01-14 21:06:51 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 21:06:51 --> Session routines successfully run
+DEBUG - 2014-01-14 21:06:51 --> Controller Class Initialized
+DEBUG - 2014-01-14 21:06:51 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 21:06:51 --> Model Class Initialized
+DEBUG - 2014-01-14 21:06:51 --> Model Class Initialized
+DEBUG - 2014-01-14 21:06:51 --> Model Class Initialized
+DEBUG - 2014-01-14 21:06:51 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 21:06:51 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 21:06:51 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 21:06:51 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 21:06:51 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 21:06:51 --> Model Class Initialized
+DEBUG - 2014-01-14 21:06:51 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 21:06:51 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 21:06:51 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 21:06:51 --> Final output sent to browser
+DEBUG - 2014-01-14 21:06:51 --> Total execution time: 0.3551
+DEBUG - 2014-01-14 22:19:01 --> Config Class Initialized
+DEBUG - 2014-01-14 22:19:02 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:19:02 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:19:02 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:19:02 --> URI Class Initialized
+DEBUG - 2014-01-14 22:19:02 --> Router Class Initialized
+DEBUG - 2014-01-14 22:19:02 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 22:19:02 --> Output Class Initialized
+DEBUG - 2014-01-14 22:19:02 --> Security Class Initialized
+DEBUG - 2014-01-14 22:19:02 --> Input Class Initialized
+DEBUG - 2014-01-14 22:19:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:19:02 --> Language Class Initialized
+DEBUG - 2014-01-14 22:19:02 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:19:02 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:19:02 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:19:02 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:19:02 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:19:02 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:19:02 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:19:02 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:19:02 --> Session Class Initialized
+DEBUG - 2014-01-14 22:19:02 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:19:02 --> Session routines successfully run
+DEBUG - 2014-01-14 22:19:02 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:19:02 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:19:02 --> Model Class Initialized
+DEBUG - 2014-01-14 22:19:02 --> Model Class Initialized
+DEBUG - 2014-01-14 22:19:02 --> Model Class Initialized
+DEBUG - 2014-01-14 22:19:02 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:02 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 22:19:02 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 22:19:02 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 22:19:02 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 22:19:02 --> Model Class Initialized
+DEBUG - 2014-01-14 22:19:02 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 22:19:02 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 22:19:02 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 22:19:02 --> Final output sent to browser
+DEBUG - 2014-01-14 22:19:02 --> Total execution time: 0.5547
+DEBUG - 2014-01-14 22:19:54 --> Config Class Initialized
+DEBUG - 2014-01-14 22:19:54 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:19:54 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:19:54 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:19:54 --> URI Class Initialized
+DEBUG - 2014-01-14 22:19:54 --> Router Class Initialized
+DEBUG - 2014-01-14 22:19:54 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 22:19:54 --> Output Class Initialized
+DEBUG - 2014-01-14 22:19:54 --> Security Class Initialized
+DEBUG - 2014-01-14 22:19:54 --> Input Class Initialized
+DEBUG - 2014-01-14 22:19:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:19:54 --> Language Class Initialized
+DEBUG - 2014-01-14 22:19:54 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:19:54 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:19:54 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:19:54 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:19:54 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:19:54 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:19:54 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:19:54 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:19:54 --> Session Class Initialized
+DEBUG - 2014-01-14 22:19:54 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:19:54 --> Session routines successfully run
+DEBUG - 2014-01-14 22:19:54 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:19:54 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:19:54 --> Model Class Initialized
+DEBUG - 2014-01-14 22:19:54 --> Model Class Initialized
+DEBUG - 2014-01-14 22:19:54 --> Model Class Initialized
+DEBUG - 2014-01-14 22:19:54 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:19:54 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 22:19:54 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 22:19:54 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 22:19:54 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 22:19:54 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 22:19:54 --> Model Class Initialized
+DEBUG - 2014-01-14 22:19:54 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 22:19:54 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 22:19:54 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 22:19:54 --> Final output sent to browser
+DEBUG - 2014-01-14 22:19:54 --> Total execution time: 0.2503
+DEBUG - 2014-01-14 22:20:24 --> Config Class Initialized
+DEBUG - 2014-01-14 22:20:24 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:20:24 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:20:24 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:20:24 --> URI Class Initialized
+DEBUG - 2014-01-14 22:20:24 --> Router Class Initialized
+DEBUG - 2014-01-14 22:20:24 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 22:20:24 --> Output Class Initialized
+DEBUG - 2014-01-14 22:20:24 --> Security Class Initialized
+DEBUG - 2014-01-14 22:20:24 --> Input Class Initialized
+DEBUG - 2014-01-14 22:20:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:20:24 --> Language Class Initialized
+DEBUG - 2014-01-14 22:20:24 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:20:24 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:20:24 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:20:24 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:20:24 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:20:24 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:20:24 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:20:24 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:20:24 --> Session Class Initialized
+DEBUG - 2014-01-14 22:20:24 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:20:24 --> Session routines successfully run
+DEBUG - 2014-01-14 22:20:24 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:20:24 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:20:24 --> Model Class Initialized
+DEBUG - 2014-01-14 22:20:24 --> Model Class Initialized
+DEBUG - 2014-01-14 22:20:24 --> Model Class Initialized
+DEBUG - 2014-01-14 22:20:24 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 22:20:24 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 22:20:24 --> File loaded: application/views/home/summary-company.php
+ERROR - 2014-01-14 22:20:24 --> Severity: Notice  --> Undefined variable: categories D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 2
+DEBUG - 2014-01-14 22:20:24 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 22:20:24 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 22:20:24 --> Model Class Initialized
+DEBUG - 2014-01-14 22:20:24 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 22:20:24 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 22:20:24 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 22:20:24 --> Final output sent to browser
+DEBUG - 2014-01-14 22:20:24 --> Total execution time: 0.2535
+DEBUG - 2014-01-14 22:21:38 --> Config Class Initialized
+DEBUG - 2014-01-14 22:21:38 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:21:38 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:21:38 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:21:38 --> URI Class Initialized
+DEBUG - 2014-01-14 22:21:38 --> Router Class Initialized
+DEBUG - 2014-01-14 22:21:38 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 22:21:38 --> Output Class Initialized
+DEBUG - 2014-01-14 22:21:38 --> Security Class Initialized
+DEBUG - 2014-01-14 22:21:38 --> Input Class Initialized
+DEBUG - 2014-01-14 22:21:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:21:38 --> Language Class Initialized
+DEBUG - 2014-01-14 22:21:38 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:21:38 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:21:38 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:21:38 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:21:38 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:21:38 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:21:38 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:21:38 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:21:38 --> Session Class Initialized
+DEBUG - 2014-01-14 22:21:38 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:21:38 --> Session routines successfully run
+DEBUG - 2014-01-14 22:21:38 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:21:38 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:21:38 --> Model Class Initialized
+DEBUG - 2014-01-14 22:21:38 --> Model Class Initialized
+DEBUG - 2014-01-14 22:21:38 --> Model Class Initialized
+DEBUG - 2014-01-14 22:21:38 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:21:38 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 22:21:38 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 22:21:38 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 22:21:38 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 22:21:38 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 22:21:38 --> Model Class Initialized
+DEBUG - 2014-01-14 22:21:38 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 22:21:38 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 22:21:38 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 22:21:38 --> Final output sent to browser
+DEBUG - 2014-01-14 22:21:38 --> Total execution time: 0.3532
+DEBUG - 2014-01-14 22:22:14 --> Config Class Initialized
+DEBUG - 2014-01-14 22:22:14 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:22:14 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:22:14 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:22:14 --> URI Class Initialized
+DEBUG - 2014-01-14 22:22:14 --> Router Class Initialized
+DEBUG - 2014-01-14 22:22:14 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 22:22:14 --> Output Class Initialized
+DEBUG - 2014-01-14 22:22:14 --> Security Class Initialized
+DEBUG - 2014-01-14 22:22:14 --> Input Class Initialized
+DEBUG - 2014-01-14 22:22:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:22:14 --> Language Class Initialized
+DEBUG - 2014-01-14 22:22:14 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:22:14 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:22:14 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:22:14 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:22:14 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:22:14 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:22:14 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:22:14 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:22:14 --> Session Class Initialized
+DEBUG - 2014-01-14 22:22:14 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:22:14 --> Session routines successfully run
+DEBUG - 2014-01-14 22:22:14 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:22:14 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:22:14 --> Model Class Initialized
+DEBUG - 2014-01-14 22:22:14 --> Model Class Initialized
+DEBUG - 2014-01-14 22:22:14 --> Model Class Initialized
+DEBUG - 2014-01-14 22:22:15 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 22:22:15 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 22:22:15 --> File loaded: application/views/home/summary-company.php
+ERROR - 2014-01-14 22:22:15 --> Severity: Notice  --> Undefined variable: summary D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 2
+DEBUG - 2014-01-14 22:22:15 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 22:22:15 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 22:22:15 --> Model Class Initialized
+DEBUG - 2014-01-14 22:22:15 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 22:22:15 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 22:22:15 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 22:22:15 --> Final output sent to browser
+DEBUG - 2014-01-14 22:22:15 --> Total execution time: 0.2529
+DEBUG - 2014-01-14 22:22:29 --> Config Class Initialized
+DEBUG - 2014-01-14 22:22:29 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:22:29 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:22:29 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:22:29 --> URI Class Initialized
+DEBUG - 2014-01-14 22:22:29 --> Router Class Initialized
+DEBUG - 2014-01-14 22:22:29 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 22:22:29 --> Output Class Initialized
+DEBUG - 2014-01-14 22:22:29 --> Security Class Initialized
+DEBUG - 2014-01-14 22:22:29 --> Input Class Initialized
+DEBUG - 2014-01-14 22:22:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:22:29 --> Language Class Initialized
+DEBUG - 2014-01-14 22:22:29 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:22:29 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:22:29 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:22:29 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:22:29 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:22:29 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:22:29 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:22:29 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:22:29 --> Session Class Initialized
+DEBUG - 2014-01-14 22:22:29 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:22:29 --> Session routines successfully run
+DEBUG - 2014-01-14 22:22:29 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:22:29 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:22:29 --> Model Class Initialized
+DEBUG - 2014-01-14 22:22:29 --> Model Class Initialized
+DEBUG - 2014-01-14 22:22:29 --> Model Class Initialized
+DEBUG - 2014-01-14 22:22:29 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:22:29 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 22:22:29 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 22:22:29 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 22:22:29 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 22:22:29 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 22:22:29 --> Model Class Initialized
+DEBUG - 2014-01-14 22:22:29 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 22:22:29 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 22:22:29 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 22:22:29 --> Final output sent to browser
+DEBUG - 2014-01-14 22:22:29 --> Total execution time: 0.2876
+DEBUG - 2014-01-14 22:25:28 --> Config Class Initialized
+DEBUG - 2014-01-14 22:25:28 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:25:28 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:25:28 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:25:28 --> URI Class Initialized
+DEBUG - 2014-01-14 22:25:28 --> Router Class Initialized
+DEBUG - 2014-01-14 22:25:28 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 22:25:28 --> Output Class Initialized
+DEBUG - 2014-01-14 22:25:28 --> Security Class Initialized
+DEBUG - 2014-01-14 22:25:28 --> Input Class Initialized
+DEBUG - 2014-01-14 22:25:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:25:28 --> Language Class Initialized
+DEBUG - 2014-01-14 22:25:28 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:25:28 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:25:28 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:25:28 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:25:28 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:25:28 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:25:28 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:25:28 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:25:28 --> Session Class Initialized
+DEBUG - 2014-01-14 22:25:28 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:25:28 --> Session routines successfully run
+DEBUG - 2014-01-14 22:25:28 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:25:28 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:25:28 --> Model Class Initialized
+DEBUG - 2014-01-14 22:25:28 --> Model Class Initialized
+DEBUG - 2014-01-14 22:25:28 --> Model Class Initialized
+DEBUG - 2014-01-14 22:25:28 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 22:25:28 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:28 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:28 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:28 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:28 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:25:29 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 22:25:29 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 22:25:29 --> File loaded: application/views/home/summary-company.php
+DEBUG - 2014-01-14 22:25:29 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 22:25:29 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 22:25:29 --> Model Class Initialized
+DEBUG - 2014-01-14 22:25:29 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 22:25:29 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 22:25:29 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 22:25:29 --> Final output sent to browser
+DEBUG - 2014-01-14 22:25:29 --> Total execution time: 0.3116
+DEBUG - 2014-01-14 22:28:08 --> Config Class Initialized
+DEBUG - 2014-01-14 22:28:08 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:28:08 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:28:08 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:28:08 --> URI Class Initialized
+DEBUG - 2014-01-14 22:28:08 --> Router Class Initialized
+DEBUG - 2014-01-14 22:28:08 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 22:28:08 --> Output Class Initialized
+DEBUG - 2014-01-14 22:28:08 --> Security Class Initialized
+DEBUG - 2014-01-14 22:28:08 --> Input Class Initialized
+DEBUG - 2014-01-14 22:28:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:28:08 --> Language Class Initialized
+DEBUG - 2014-01-14 22:28:08 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:28:08 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:28:08 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:28:08 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:28:08 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:28:08 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:28:08 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:28:08 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:28:08 --> Session Class Initialized
+DEBUG - 2014-01-14 22:28:08 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:28:08 --> Session routines successfully run
+DEBUG - 2014-01-14 22:28:08 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:28:08 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:28:08 --> Model Class Initialized
+DEBUG - 2014-01-14 22:28:08 --> Model Class Initialized
+DEBUG - 2014-01-14 22:28:08 --> Model Class Initialized
+DEBUG - 2014-01-14 22:28:08 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 22:28:08 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 22:28:08 --> File loaded: application/views/home/summary-company.php
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 3 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 4 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 5 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 6 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 7 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 10 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 11 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 12 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 13 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 17 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 18 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 19 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 22 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 23 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 24 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 25 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 28 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 29 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 30 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 31 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 32 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 35 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 38 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 39 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 42 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 43 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 44 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 45 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 46 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 47 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 48 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 51 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 52 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 53 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 56 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 57 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 74 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 75 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 76 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 77 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 78 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 79 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 80 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 81 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 82 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 60 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 61 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 62 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 63 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 64 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 67 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 68 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 70 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 71 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 85 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 86 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 88 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 87 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 89 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 91 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+ERROR - 2014-01-14 22:28:08 --> Severity: Notice  --> Undefined offset: 92 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 13
+DEBUG - 2014-01-14 22:28:08 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 22:28:08 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 22:28:08 --> Model Class Initialized
+DEBUG - 2014-01-14 22:28:08 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 22:28:08 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 22:28:08 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 22:28:08 --> Final output sent to browser
+DEBUG - 2014-01-14 22:28:08 --> Total execution time: 0.2833
+DEBUG - 2014-01-14 22:29:47 --> Config Class Initialized
+DEBUG - 2014-01-14 22:29:47 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:29:47 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:29:47 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:29:47 --> URI Class Initialized
+DEBUG - 2014-01-14 22:29:47 --> Router Class Initialized
+DEBUG - 2014-01-14 22:29:47 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 22:29:47 --> Output Class Initialized
+DEBUG - 2014-01-14 22:29:47 --> Security Class Initialized
+DEBUG - 2014-01-14 22:29:47 --> Input Class Initialized
+DEBUG - 2014-01-14 22:29:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:29:47 --> Language Class Initialized
+DEBUG - 2014-01-14 22:29:47 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:29:47 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:29:47 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:29:47 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:29:47 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:29:47 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:29:47 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:29:47 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:29:47 --> Session Class Initialized
+DEBUG - 2014-01-14 22:29:47 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:29:47 --> Session routines successfully run
+DEBUG - 2014-01-14 22:29:47 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:29:47 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:29:47 --> Model Class Initialized
+DEBUG - 2014-01-14 22:29:47 --> Model Class Initialized
+DEBUG - 2014-01-14 22:29:47 --> Model Class Initialized
+DEBUG - 2014-01-14 22:29:47 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 5
+DEBUG - 2014-01-14 22:29:47 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 22:29:47 --> File loaded: application/views/home/summary-company.php
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 3 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 4 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 5 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 6 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 7 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 10 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 11 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 12 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 13 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 17 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 18 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 19 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 22 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 23 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 24 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 25 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 28 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 29 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 30 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 31 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 32 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 35 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 38 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 39 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 42 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 43 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 44 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 45 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 46 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 47 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 48 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 51 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 52 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 53 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 56 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 57 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 74 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 75 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 76 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 77 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 78 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 79 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 80 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 81 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 82 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 60 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 61 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 62 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 63 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 64 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 67 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 68 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 70 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 71 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 85 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 86 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 88 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 87 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 89 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 91 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:29:47 --> Severity: Notice  --> Undefined offset: 92 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+DEBUG - 2014-01-14 22:29:47 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 22:29:47 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 22:29:47 --> Model Class Initialized
+DEBUG - 2014-01-14 22:29:47 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 22:29:47 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 22:29:47 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 22:29:47 --> Final output sent to browser
+DEBUG - 2014-01-14 22:29:47 --> Total execution time: 0.3769
+DEBUG - 2014-01-14 22:31:52 --> Config Class Initialized
+DEBUG - 2014-01-14 22:31:52 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:31:52 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:31:52 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:31:52 --> URI Class Initialized
+DEBUG - 2014-01-14 22:31:52 --> Router Class Initialized
+DEBUG - 2014-01-14 22:31:52 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 22:31:52 --> Output Class Initialized
+DEBUG - 2014-01-14 22:31:52 --> Security Class Initialized
+DEBUG - 2014-01-14 22:31:52 --> Input Class Initialized
+DEBUG - 2014-01-14 22:31:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:31:52 --> Language Class Initialized
+DEBUG - 2014-01-14 22:31:52 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:31:52 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:31:52 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:31:52 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:31:52 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:31:52 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:31:52 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:31:52 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:31:52 --> Session Class Initialized
+DEBUG - 2014-01-14 22:31:52 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:31:52 --> Session routines successfully run
+DEBUG - 2014-01-14 22:31:52 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:31:52 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:31:52 --> Model Class Initialized
+DEBUG - 2014-01-14 22:31:52 --> Model Class Initialized
+DEBUG - 2014-01-14 22:31:52 --> Model Class Initialized
+DEBUG - 2014-01-14 22:31:52 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Adelaide D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Brisbane D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Canberra D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Darwin D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:31:52 --> Severity: Notice  --> Undefined index: Gold Coast D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined index: Hobart D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined index: Melbourne D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined index: Perth D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined index: Sydney D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+DEBUG - 2014-01-14 22:31:53 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 22:31:53 --> File loaded: application/views/home/summary-company.php
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 3 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 4 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 5 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 6 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 7 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 10 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 11 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 12 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 13 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 17 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 18 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 19 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 22 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 23 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 24 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 25 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 28 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 29 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 30 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 31 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 32 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 35 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 38 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 39 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 42 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 43 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 44 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 45 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 46 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 47 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 48 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 51 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 52 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 53 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 56 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 57 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 74 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 75 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 76 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 77 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 78 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 79 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 80 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 81 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 82 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 60 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 61 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 62 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 63 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 64 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 67 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 68 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 70 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 71 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 85 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 86 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 88 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 87 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 89 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 91 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:31:53 --> Severity: Notice  --> Undefined offset: 92 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+DEBUG - 2014-01-14 22:31:53 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 22:31:53 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 22:31:53 --> Model Class Initialized
+DEBUG - 2014-01-14 22:31:53 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 22:31:53 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 22:31:53 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 22:31:53 --> Final output sent to browser
+DEBUG - 2014-01-14 22:31:53 --> Total execution time: 0.3966
+DEBUG - 2014-01-14 22:36:55 --> Config Class Initialized
+DEBUG - 2014-01-14 22:36:55 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:36:55 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:36:55 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:36:55 --> URI Class Initialized
+DEBUG - 2014-01-14 22:36:55 --> Router Class Initialized
+DEBUG - 2014-01-14 22:36:55 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 22:36:55 --> Output Class Initialized
+DEBUG - 2014-01-14 22:36:55 --> Security Class Initialized
+DEBUG - 2014-01-14 22:36:55 --> Input Class Initialized
+DEBUG - 2014-01-14 22:36:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:36:55 --> Language Class Initialized
+DEBUG - 2014-01-14 22:36:55 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:36:55 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:36:55 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:36:55 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:36:55 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:36:55 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:36:55 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:36:55 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:36:55 --> Session Class Initialized
+DEBUG - 2014-01-14 22:36:55 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:36:55 --> Session garbage collection performed.
+DEBUG - 2014-01-14 22:36:55 --> Session routines successfully run
+DEBUG - 2014-01-14 22:36:55 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:36:55 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:36:56 --> Model Class Initialized
+DEBUG - 2014-01-14 22:36:56 --> Model Class Initialized
+DEBUG - 2014-01-14 22:36:56 --> Model Class Initialized
+DEBUG - 2014-01-14 22:36:56 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Adelaide D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Brisbane D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Canberra D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Darwin D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Gold Coast D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Hobart D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Melbourne D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Perth D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined index: Sydney D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+DEBUG - 2014-01-14 22:36:56 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 22:36:56 --> File loaded: application/views/home/summary-company.php
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 3 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 4 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 5 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 6 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 7 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 10 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 11 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 12 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 13 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 17 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 18 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 19 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 22 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 23 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 24 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 25 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 28 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 29 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 30 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 31 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 32 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 35 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 38 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 39 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 42 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 43 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 44 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 45 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 46 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 47 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 48 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 51 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 52 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 53 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 56 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 57 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 74 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 75 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 76 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 77 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 78 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 79 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 80 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 81 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 82 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 60 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 61 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 62 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 63 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 64 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 67 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 68 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 70 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 71 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 85 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 86 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 88 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 87 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 89 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 91 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:36:56 --> Severity: Notice  --> Undefined offset: 92 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+DEBUG - 2014-01-14 22:36:56 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 22:36:56 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 22:36:56 --> Model Class Initialized
+DEBUG - 2014-01-14 22:36:56 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 22:36:56 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 22:36:56 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 22:36:56 --> Final output sent to browser
+DEBUG - 2014-01-14 22:36:56 --> Total execution time: 0.6160
+DEBUG - 2014-01-14 22:37:25 --> Config Class Initialized
+DEBUG - 2014-01-14 22:37:25 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:37:25 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:37:25 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:37:25 --> URI Class Initialized
+DEBUG - 2014-01-14 22:37:25 --> Router Class Initialized
+DEBUG - 2014-01-14 22:37:25 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 22:37:25 --> Output Class Initialized
+DEBUG - 2014-01-14 22:37:25 --> Security Class Initialized
+DEBUG - 2014-01-14 22:37:25 --> Input Class Initialized
+DEBUG - 2014-01-14 22:37:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:37:25 --> Language Class Initialized
+DEBUG - 2014-01-14 22:37:25 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:37:25 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:37:25 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:37:25 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:37:25 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:37:25 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:37:25 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:37:25 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:37:25 --> Session Class Initialized
+DEBUG - 2014-01-14 22:37:25 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:37:25 --> Session routines successfully run
+DEBUG - 2014-01-14 22:37:25 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:37:25 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:37:25 --> Model Class Initialized
+DEBUG - 2014-01-14 22:37:25 --> Model Class Initialized
+DEBUG - 2014-01-14 22:37:25 --> Model Class Initialized
+DEBUG - 2014-01-14 22:37:25 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Adelaide D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Brisbane D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Canberra D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Darwin D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Gold Coast D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Hobart D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Melbourne D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Perth D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined index: Sydney D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+DEBUG - 2014-01-14 22:37:25 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 22:37:25 --> File loaded: application/views/home/summary-company.php
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 3 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 4 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 5 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 6 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 7 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 10 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 11 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 12 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 13 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 17 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 18 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 19 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 22 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 23 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 24 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 25 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 28 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 29 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 30 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 31 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 32 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 35 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 38 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 39 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 42 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 43 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 44 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 45 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 46 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 47 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 48 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 51 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 52 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 53 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 56 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 57 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 74 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 75 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 76 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 77 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 78 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 79 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 80 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 81 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 82 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 60 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 61 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 62 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 63 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 64 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 67 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 68 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 70 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 71 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 85 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 86 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 88 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 87 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 89 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 91 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:37:25 --> Severity: Notice  --> Undefined offset: 92 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+DEBUG - 2014-01-14 22:37:25 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 22:37:25 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 22:37:25 --> Model Class Initialized
+DEBUG - 2014-01-14 22:37:25 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 22:37:25 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 22:37:25 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 22:37:25 --> Final output sent to browser
+DEBUG - 2014-01-14 22:37:25 --> Total execution time: 0.3079
+DEBUG - 2014-01-14 22:39:30 --> Config Class Initialized
+DEBUG - 2014-01-14 22:39:30 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:39:30 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:39:30 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:39:30 --> URI Class Initialized
+DEBUG - 2014-01-14 22:39:30 --> Router Class Initialized
+DEBUG - 2014-01-14 22:39:30 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 22:39:30 --> Output Class Initialized
+DEBUG - 2014-01-14 22:39:30 --> Security Class Initialized
+DEBUG - 2014-01-14 22:39:30 --> Input Class Initialized
+DEBUG - 2014-01-14 22:39:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:39:30 --> Language Class Initialized
+DEBUG - 2014-01-14 22:39:30 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:39:30 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:39:30 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:39:30 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:39:30 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:39:30 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:39:30 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:39:30 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:39:30 --> Session Class Initialized
+DEBUG - 2014-01-14 22:39:30 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:39:30 --> Session routines successfully run
+DEBUG - 2014-01-14 22:39:30 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:39:30 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:39:30 --> Model Class Initialized
+DEBUG - 2014-01-14 22:39:30 --> Model Class Initialized
+DEBUG - 2014-01-14 22:39:30 --> Model Class Initialized
+DEBUG - 2014-01-14 22:39:31 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Adelaide D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Brisbane D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Canberra D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Darwin D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Gold Coast D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Hobart D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Melbourne D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Perth D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined index: Sydney D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+DEBUG - 2014-01-14 22:39:31 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 22:39:31 --> File loaded: application/views/home/summary-company.php
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 3 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 4 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 5 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 6 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 7 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 10 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 11 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 12 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 13 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 17 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 18 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 19 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 22 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 23 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 24 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 25 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 28 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 29 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 30 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 31 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 32 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 35 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 38 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 39 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 42 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 43 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 44 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 45 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 46 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 47 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 48 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 51 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 52 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 53 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 56 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 57 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 74 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 75 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 76 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 77 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 78 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 79 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 80 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 81 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 82 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 60 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 61 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 62 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 63 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 64 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 67 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 68 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 70 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 71 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 85 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 86 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 88 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 87 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 89 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 91 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:31 --> Severity: Notice  --> Undefined offset: 92 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+DEBUG - 2014-01-14 22:39:31 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 22:39:31 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 22:39:31 --> Model Class Initialized
+DEBUG - 2014-01-14 22:39:31 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 22:39:31 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 22:39:31 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 22:39:31 --> Final output sent to browser
+DEBUG - 2014-01-14 22:39:31 --> Total execution time: 0.3049
+DEBUG - 2014-01-14 22:39:35 --> Config Class Initialized
+DEBUG - 2014-01-14 22:39:35 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:39:35 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:39:35 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:39:35 --> URI Class Initialized
+DEBUG - 2014-01-14 22:39:35 --> Router Class Initialized
+DEBUG - 2014-01-14 22:39:35 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 22:39:35 --> Output Class Initialized
+DEBUG - 2014-01-14 22:39:35 --> Security Class Initialized
+DEBUG - 2014-01-14 22:39:35 --> Input Class Initialized
+DEBUG - 2014-01-14 22:39:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:39:35 --> Language Class Initialized
+DEBUG - 2014-01-14 22:39:35 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:39:35 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:39:35 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:39:35 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:39:35 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:39:35 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:39:35 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:39:35 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:39:35 --> Session Class Initialized
+DEBUG - 2014-01-14 22:39:35 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:39:35 --> Session routines successfully run
+DEBUG - 2014-01-14 22:39:35 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:39:35 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:39:35 --> Model Class Initialized
+DEBUG - 2014-01-14 22:39:35 --> Model Class Initialized
+DEBUG - 2014-01-14 22:39:35 --> Model Class Initialized
+DEBUG - 2014-01-14 22:39:35 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 7
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Adelaide D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Brisbane D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Canberra D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Darwin D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Gold Coast D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Hobart D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Melbourne D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Perth D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined index: Sydney D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 24
+DEBUG - 2014-01-14 22:39:35 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 22:39:35 --> File loaded: application/views/home/summary-company.php
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 3 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 4 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 5 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 6 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 7 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 10 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 11 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 12 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 13 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 17 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 18 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 19 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 22 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 23 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 24 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 25 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 28 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 29 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 30 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 31 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 32 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 35 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 38 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 39 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 42 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 43 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 44 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 45 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 46 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 47 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 48 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 51 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 52 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 53 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 56 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 57 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 74 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 75 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 76 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 77 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 78 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 79 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 80 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 81 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 82 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 60 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 61 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 62 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 63 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 64 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 67 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 68 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 70 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 71 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 85 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 86 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 88 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 87 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 89 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 91 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:39:35 --> Severity: Notice  --> Undefined offset: 92 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+DEBUG - 2014-01-14 22:39:35 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 22:39:35 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 22:39:35 --> Model Class Initialized
+DEBUG - 2014-01-14 22:39:35 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 22:39:35 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 22:39:35 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 22:39:35 --> Final output sent to browser
+DEBUG - 2014-01-14 22:39:35 --> Total execution time: 0.3288
+DEBUG - 2014-01-14 22:42:19 --> Config Class Initialized
+DEBUG - 2014-01-14 22:42:19 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:42:19 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:42:19 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:42:19 --> URI Class Initialized
+DEBUG - 2014-01-14 22:42:19 --> Router Class Initialized
+DEBUG - 2014-01-14 22:42:19 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 22:42:20 --> Output Class Initialized
+DEBUG - 2014-01-14 22:42:20 --> Security Class Initialized
+DEBUG - 2014-01-14 22:42:20 --> Input Class Initialized
+DEBUG - 2014-01-14 22:42:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:42:20 --> Language Class Initialized
+DEBUG - 2014-01-14 22:42:20 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:42:20 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:42:20 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:42:20 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:42:20 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:42:20 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:42:20 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:42:20 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:42:20 --> Session Class Initialized
+DEBUG - 2014-01-14 22:42:20 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:42:20 --> Session routines successfully run
+DEBUG - 2014-01-14 22:42:20 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:42:20 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:42:20 --> Model Class Initialized
+DEBUG - 2014-01-14 22:42:20 --> Model Class Initialized
+DEBUG - 2014-01-14 22:42:20 --> Model Class Initialized
+DEBUG - 2014-01-14 22:42:20 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Adelaide D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Brisbane D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Canberra D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Darwin D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Gold Coast D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Hobart D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Melbourne D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Perth D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined index: Sydney D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+DEBUG - 2014-01-14 22:42:20 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 22:42:20 --> File loaded: application/views/home/summary-company.php
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 3 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 4 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 5 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 6 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 7 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 10 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 11 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 12 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 13 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 17 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 18 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 19 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 22 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 23 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 24 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 25 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 28 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 29 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 30 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 31 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 32 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 35 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 38 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 39 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 42 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 43 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 44 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 45 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 46 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 47 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 48 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 51 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 52 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 53 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 56 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 57 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 74 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 75 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 76 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 77 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 78 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 79 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 80 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 81 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 82 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 60 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 61 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 62 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 63 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 64 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 67 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 68 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 70 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 71 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 85 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 86 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 88 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 87 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 89 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 91 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:20 --> Severity: Notice  --> Undefined offset: 92 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+DEBUG - 2014-01-14 22:42:20 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 22:42:20 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 22:42:20 --> Model Class Initialized
+DEBUG - 2014-01-14 22:42:20 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 22:42:20 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 22:42:20 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 22:42:20 --> Final output sent to browser
+DEBUG - 2014-01-14 22:42:20 --> Total execution time: 0.3977
+DEBUG - 2014-01-14 22:42:55 --> Config Class Initialized
+DEBUG - 2014-01-14 22:42:55 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:42:55 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:42:55 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:42:55 --> URI Class Initialized
+DEBUG - 2014-01-14 22:42:55 --> Router Class Initialized
+DEBUG - 2014-01-14 22:42:55 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 22:42:55 --> Output Class Initialized
+DEBUG - 2014-01-14 22:42:55 --> Security Class Initialized
+DEBUG - 2014-01-14 22:42:55 --> Input Class Initialized
+DEBUG - 2014-01-14 22:42:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:42:55 --> Language Class Initialized
+DEBUG - 2014-01-14 22:42:55 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:42:55 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:42:55 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:42:55 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:42:55 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:42:55 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:42:55 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:42:55 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:42:55 --> Session Class Initialized
+DEBUG - 2014-01-14 22:42:55 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:42:55 --> Session routines successfully run
+DEBUG - 2014-01-14 22:42:55 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:42:55 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:42:55 --> Model Class Initialized
+DEBUG - 2014-01-14 22:42:55 --> Model Class Initialized
+DEBUG - 2014-01-14 22:42:55 --> Model Class Initialized
+DEBUG - 2014-01-14 22:42:55 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Adelaide D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Brisbane D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Canberra D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Darwin D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Gold Coast D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Hobart D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Melbourne D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Perth D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined index: Sydney D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+DEBUG - 2014-01-14 22:42:55 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 22:42:55 --> File loaded: application/views/home/summary-company.php
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 3 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 4 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 5 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 6 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 7 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 10 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 11 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 12 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 13 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 17 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 18 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 19 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 22 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 23 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 24 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 25 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 28 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 29 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 30 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 31 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 32 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 35 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 38 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 39 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 42 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 43 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 44 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 45 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 46 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 47 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 48 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 51 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 52 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 53 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 56 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 57 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 74 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 75 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 76 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 77 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 78 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 79 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 80 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 81 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 82 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 60 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 61 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 62 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 63 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 64 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 67 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 68 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 70 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 71 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 85 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 86 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 88 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 87 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 89 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 91 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:42:55 --> Severity: Notice  --> Undefined offset: 92 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+DEBUG - 2014-01-14 22:42:55 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 22:42:55 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 22:42:55 --> Model Class Initialized
+DEBUG - 2014-01-14 22:42:55 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 22:42:55 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 22:42:55 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 22:42:55 --> Final output sent to browser
+DEBUG - 2014-01-14 22:42:55 --> Total execution time: 0.3013
+DEBUG - 2014-01-14 22:43:01 --> Config Class Initialized
+DEBUG - 2014-01-14 22:43:01 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:43:01 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:43:01 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:43:01 --> URI Class Initialized
+DEBUG - 2014-01-14 22:43:01 --> Router Class Initialized
+DEBUG - 2014-01-14 22:43:01 --> Output Class Initialized
+DEBUG - 2014-01-14 22:43:01 --> Security Class Initialized
+DEBUG - 2014-01-14 22:43:01 --> Input Class Initialized
+DEBUG - 2014-01-14 22:43:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:43:01 --> Language Class Initialized
+DEBUG - 2014-01-14 22:43:01 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:43:01 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:43:01 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:43:01 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:43:01 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:43:01 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:43:01 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:43:01 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:43:01 --> Session Class Initialized
+DEBUG - 2014-01-14 22:43:01 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:43:01 --> Session routines successfully run
+DEBUG - 2014-01-14 22:43:01 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:43:01 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:43:01 --> Model Class Initialized
+DEBUG - 2014-01-14 22:43:01 --> Model Class Initialized
+DEBUG - 2014-01-14 22:43:02 --> Model Class Initialized
+ERROR - 2014-01-14 22:43:02 --> Severity: Notice  --> Undefined index: addjs D:\WWW-Root\GitHub\j4c\site\application\core\MY_Controller.php 115
+ERROR - 2014-01-14 22:43:02 --> 404 Page Not Found --> job/in
+DEBUG - 2014-01-14 22:43:53 --> Config Class Initialized
+DEBUG - 2014-01-14 22:43:53 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:43:53 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:43:53 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:43:53 --> URI Class Initialized
+DEBUG - 2014-01-14 22:43:53 --> Router Class Initialized
+DEBUG - 2014-01-14 22:43:53 --> Output Class Initialized
+DEBUG - 2014-01-14 22:43:53 --> Security Class Initialized
+DEBUG - 2014-01-14 22:43:53 --> Input Class Initialized
+DEBUG - 2014-01-14 22:43:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:43:53 --> Language Class Initialized
+DEBUG - 2014-01-14 22:43:53 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:43:53 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:43:53 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:43:53 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:43:53 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:43:53 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:43:53 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:43:53 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:43:53 --> Session Class Initialized
+DEBUG - 2014-01-14 22:43:53 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:43:53 --> Session routines successfully run
+DEBUG - 2014-01-14 22:43:53 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:43:53 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:43:53 --> Model Class Initialized
+DEBUG - 2014-01-14 22:43:53 --> Model Class Initialized
+DEBUG - 2014-01-14 22:43:53 --> Model Class Initialized
+ERROR - 2014-01-14 22:43:53 --> Severity: Notice  --> Undefined index: addjs D:\WWW-Root\GitHub\j4c\site\application\core\MY_Controller.php 115
+DEBUG - 2014-01-14 22:43:53 --> Final output sent to browser
+DEBUG - 2014-01-14 22:43:53 --> Total execution time: 0.0986
+DEBUG - 2014-01-14 22:44:00 --> Config Class Initialized
+DEBUG - 2014-01-14 22:44:00 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:44:00 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:44:00 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:44:00 --> URI Class Initialized
+DEBUG - 2014-01-14 22:44:00 --> Router Class Initialized
+DEBUG - 2014-01-14 22:44:00 --> Output Class Initialized
+DEBUG - 2014-01-14 22:44:00 --> Security Class Initialized
+DEBUG - 2014-01-14 22:44:00 --> Input Class Initialized
+DEBUG - 2014-01-14 22:44:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:44:00 --> Language Class Initialized
+DEBUG - 2014-01-14 22:44:00 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:44:00 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:44:00 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:44:00 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:44:00 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:44:00 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:44:00 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:44:00 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:44:00 --> Session Class Initialized
+DEBUG - 2014-01-14 22:44:00 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:44:00 --> Session routines successfully run
+DEBUG - 2014-01-14 22:44:00 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:44:00 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:44:00 --> Model Class Initialized
+DEBUG - 2014-01-14 22:44:00 --> Model Class Initialized
+DEBUG - 2014-01-14 22:44:00 --> Model Class Initialized
+ERROR - 2014-01-14 22:44:00 --> Severity: Notice  --> Undefined index: addjs D:\WWW-Root\GitHub\j4c\site\application\core\MY_Controller.php 115
+DEBUG - 2014-01-14 22:44:00 --> Final output sent to browser
+DEBUG - 2014-01-14 22:44:00 --> Total execution time: 0.1089
+DEBUG - 2014-01-14 22:45:02 --> Config Class Initialized
+DEBUG - 2014-01-14 22:45:02 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:45:02 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:45:02 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:45:02 --> URI Class Initialized
+DEBUG - 2014-01-14 22:45:02 --> Router Class Initialized
+DEBUG - 2014-01-14 22:45:02 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 22:45:02 --> Output Class Initialized
+DEBUG - 2014-01-14 22:45:02 --> Security Class Initialized
+DEBUG - 2014-01-14 22:45:02 --> Input Class Initialized
+DEBUG - 2014-01-14 22:45:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:45:02 --> Language Class Initialized
+DEBUG - 2014-01-14 22:45:02 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:45:02 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:45:02 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:45:02 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:45:02 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:45:02 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:45:02 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:45:02 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:45:02 --> Session Class Initialized
+DEBUG - 2014-01-14 22:45:02 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:45:02 --> Session routines successfully run
+DEBUG - 2014-01-14 22:45:02 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:45:02 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:45:02 --> Model Class Initialized
+DEBUG - 2014-01-14 22:45:02 --> Model Class Initialized
+DEBUG - 2014-01-14 22:45:02 --> Model Class Initialized
+DEBUG - 2014-01-14 22:45:02 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 22:45:02 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:02 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:02 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:02 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:02 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:02 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:02 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:02 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:02 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:02 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:02 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:02 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:02 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:02 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:02 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:02 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Adelaide D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Brisbane D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Canberra D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Darwin D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Gold Coast D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Hobart D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Melbourne D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Perth D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined index: Sydney D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+DEBUG - 2014-01-14 22:45:03 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 22:45:03 --> File loaded: application/views/home/summary-company.php
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 3 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 4 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 5 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 6 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 7 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 10 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 11 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 12 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 13 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 17 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 18 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 19 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 22 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 23 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 24 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 25 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 28 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 29 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 30 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 31 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 32 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 35 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 38 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 39 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 42 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 43 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 44 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 45 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 46 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 47 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 48 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 51 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 52 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 53 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 56 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 57 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 74 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 75 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 76 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 77 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 78 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 79 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 80 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 81 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 82 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 60 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 61 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 62 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 63 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 64 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 67 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 68 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 70 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 71 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 85 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 86 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 88 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 87 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 89 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 91 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:03 --> Severity: Notice  --> Undefined offset: 92 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+DEBUG - 2014-01-14 22:45:03 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 22:45:03 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 22:45:03 --> Model Class Initialized
+DEBUG - 2014-01-14 22:45:03 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 22:45:03 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 22:45:03 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 22:45:03 --> Final output sent to browser
+DEBUG - 2014-01-14 22:45:03 --> Total execution time: 0.3095
+DEBUG - 2014-01-14 22:45:52 --> Config Class Initialized
+DEBUG - 2014-01-14 22:45:52 --> Hooks Class Initialized
+DEBUG - 2014-01-14 22:45:52 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 22:45:52 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 22:45:52 --> URI Class Initialized
+DEBUG - 2014-01-14 22:45:52 --> Router Class Initialized
+DEBUG - 2014-01-14 22:45:52 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 22:45:52 --> Output Class Initialized
+DEBUG - 2014-01-14 22:45:52 --> Security Class Initialized
+DEBUG - 2014-01-14 22:45:52 --> Input Class Initialized
+DEBUG - 2014-01-14 22:45:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 22:45:52 --> Language Class Initialized
+DEBUG - 2014-01-14 22:45:52 --> Loader Class Initialized
+DEBUG - 2014-01-14 22:45:52 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 22:45:52 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 22:45:52 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 22:45:52 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 22:45:52 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 22:45:52 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 22:45:52 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 22:45:52 --> Session Class Initialized
+DEBUG - 2014-01-14 22:45:52 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 22:45:52 --> Session routines successfully run
+DEBUG - 2014-01-14 22:45:52 --> Controller Class Initialized
+DEBUG - 2014-01-14 22:45:52 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 22:45:52 --> Model Class Initialized
+DEBUG - 2014-01-14 22:45:52 --> Model Class Initialized
+DEBUG - 2014-01-14 22:45:52 --> Model Class Initialized
+DEBUG - 2014-01-14 22:45:52 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Adelaide D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Brisbane D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Canberra D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Darwin D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Gold Coast D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Hobart D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Melbourne D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Perth D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined index: Sydney D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+DEBUG - 2014-01-14 22:45:52 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 22:45:52 --> File loaded: application/views/home/summary-company.php
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 3 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 4 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 5 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 6 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 7 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 10 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 11 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 12 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 13 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 17 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 18 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 19 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 22 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 23 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 24 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 25 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 28 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 29 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 30 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 31 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 32 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 35 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 38 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 39 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 42 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 43 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 44 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 45 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 46 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 47 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 48 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 51 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 52 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 53 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 56 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 57 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 74 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 75 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 76 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 77 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 78 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 79 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 80 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 81 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 82 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 60 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 61 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 62 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 63 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 64 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 67 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 68 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 70 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 71 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 85 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 86 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 88 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 87 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 89 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 91 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 22:45:52 --> Severity: Notice  --> Undefined offset: 92 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+DEBUG - 2014-01-14 22:45:52 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 22:45:52 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 22:45:52 --> Model Class Initialized
+DEBUG - 2014-01-14 22:45:52 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 22:45:52 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 22:45:52 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 22:45:52 --> Final output sent to browser
+DEBUG - 2014-01-14 22:45:52 --> Total execution time: 0.7599
+DEBUG - 2014-01-14 23:28:44 --> Config Class Initialized
+DEBUG - 2014-01-14 23:28:44 --> Hooks Class Initialized
+DEBUG - 2014-01-14 23:28:44 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 23:28:44 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 23:28:44 --> URI Class Initialized
+DEBUG - 2014-01-14 23:28:44 --> Router Class Initialized
+DEBUG - 2014-01-14 23:28:44 --> Output Class Initialized
+DEBUG - 2014-01-14 23:28:44 --> Security Class Initialized
+DEBUG - 2014-01-14 23:28:44 --> Input Class Initialized
+DEBUG - 2014-01-14 23:28:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 23:28:44 --> Language Class Initialized
+DEBUG - 2014-01-14 23:28:44 --> Loader Class Initialized
+DEBUG - 2014-01-14 23:28:44 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 23:28:44 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 23:28:44 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 23:28:44 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 23:28:44 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 23:28:44 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 23:28:44 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 23:28:44 --> Session Class Initialized
+DEBUG - 2014-01-14 23:28:44 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 23:28:45 --> Session routines successfully run
+DEBUG - 2014-01-14 23:28:45 --> Controller Class Initialized
+DEBUG - 2014-01-14 23:28:45 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 23:28:45 --> Model Class Initialized
+DEBUG - 2014-01-14 23:28:45 --> Model Class Initialized
+DEBUG - 2014-01-14 23:28:45 --> Model Class Initialized
+ERROR - 2014-01-14 23:28:45 --> Severity: Notice  --> Undefined index: addjs D:\WWW-Root\GitHub\j4c\site\application\core\MY_Controller.php 115
+DEBUG - 2014-01-14 23:28:45 --> Final output sent to browser
+DEBUG - 2014-01-14 23:28:45 --> Total execution time: 1.3527
+DEBUG - 2014-01-14 23:28:54 --> Config Class Initialized
+DEBUG - 2014-01-14 23:28:54 --> Hooks Class Initialized
+DEBUG - 2014-01-14 23:28:54 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 23:28:54 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 23:28:54 --> URI Class Initialized
+DEBUG - 2014-01-14 23:28:54 --> Router Class Initialized
+DEBUG - 2014-01-14 23:28:54 --> Output Class Initialized
+DEBUG - 2014-01-14 23:28:54 --> Security Class Initialized
+DEBUG - 2014-01-14 23:28:54 --> Input Class Initialized
+DEBUG - 2014-01-14 23:28:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 23:28:54 --> Language Class Initialized
+DEBUG - 2014-01-14 23:28:54 --> Loader Class Initialized
+DEBUG - 2014-01-14 23:28:54 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 23:28:54 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 23:28:54 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 23:28:54 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 23:28:54 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 23:28:54 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 23:28:54 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 23:28:54 --> Session Class Initialized
+DEBUG - 2014-01-14 23:28:54 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 23:28:54 --> Session routines successfully run
+DEBUG - 2014-01-14 23:28:54 --> Controller Class Initialized
+DEBUG - 2014-01-14 23:28:54 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 23:28:54 --> Model Class Initialized
+DEBUG - 2014-01-14 23:28:54 --> Model Class Initialized
+DEBUG - 2014-01-14 23:28:54 --> Model Class Initialized
+ERROR - 2014-01-14 23:28:54 --> Severity: Notice  --> Undefined index: addjs D:\WWW-Root\GitHub\j4c\site\application\core\MY_Controller.php 115
+ERROR - 2014-01-14 23:28:54 --> 404 Page Not Found --> job/at
+DEBUG - 2014-01-14 23:29:56 --> Config Class Initialized
+DEBUG - 2014-01-14 23:29:56 --> Hooks Class Initialized
+DEBUG - 2014-01-14 23:29:56 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 23:29:56 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 23:29:56 --> URI Class Initialized
+DEBUG - 2014-01-14 23:29:56 --> Router Class Initialized
+DEBUG - 2014-01-14 23:29:56 --> Output Class Initialized
+DEBUG - 2014-01-14 23:29:56 --> Security Class Initialized
+DEBUG - 2014-01-14 23:29:56 --> Input Class Initialized
+DEBUG - 2014-01-14 23:29:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 23:29:56 --> Language Class Initialized
+DEBUG - 2014-01-14 23:29:56 --> Loader Class Initialized
+DEBUG - 2014-01-14 23:29:56 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 23:29:56 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 23:29:56 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 23:29:56 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 23:29:56 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 23:29:56 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 23:29:56 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 23:29:56 --> Session Class Initialized
+DEBUG - 2014-01-14 23:29:56 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 23:29:56 --> Session routines successfully run
+DEBUG - 2014-01-14 23:29:56 --> Controller Class Initialized
+DEBUG - 2014-01-14 23:29:56 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 23:29:56 --> Model Class Initialized
+DEBUG - 2014-01-14 23:29:56 --> Model Class Initialized
+DEBUG - 2014-01-14 23:29:56 --> Model Class Initialized
+ERROR - 2014-01-14 23:29:56 --> Severity: Notice  --> Undefined index: addjs D:\WWW-Root\GitHub\j4c\site\application\core\MY_Controller.php 115
+DEBUG - 2014-01-14 23:29:56 --> Final output sent to browser
+DEBUG - 2014-01-14 23:29:56 --> Total execution time: 0.1087
+DEBUG - 2014-01-14 23:40:56 --> Config Class Initialized
+DEBUG - 2014-01-14 23:40:56 --> Hooks Class Initialized
+DEBUG - 2014-01-14 23:40:56 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 23:40:56 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 23:40:56 --> URI Class Initialized
+DEBUG - 2014-01-14 23:40:56 --> Router Class Initialized
+DEBUG - 2014-01-14 23:40:56 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 23:40:56 --> Output Class Initialized
+DEBUG - 2014-01-14 23:40:56 --> Security Class Initialized
+DEBUG - 2014-01-14 23:40:56 --> Input Class Initialized
+DEBUG - 2014-01-14 23:40:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 23:40:56 --> Language Class Initialized
+DEBUG - 2014-01-14 23:40:56 --> Loader Class Initialized
+DEBUG - 2014-01-14 23:40:56 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 23:40:56 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 23:40:56 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 23:40:56 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 23:40:56 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 23:40:56 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 23:40:56 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 23:40:56 --> Session Class Initialized
+DEBUG - 2014-01-14 23:40:56 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 23:40:56 --> Session routines successfully run
+DEBUG - 2014-01-14 23:40:56 --> Controller Class Initialized
+DEBUG - 2014-01-14 23:40:56 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 23:40:56 --> Model Class Initialized
+DEBUG - 2014-01-14 23:40:56 --> Model Class Initialized
+DEBUG - 2014-01-14 23:40:56 --> Model Class Initialized
+DEBUG - 2014-01-14 23:40:57 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Adelaide D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Brisbane D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Canberra D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Darwin D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Gold Coast D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Hobart D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Melbourne D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Perth D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined index: Sydney D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+DEBUG - 2014-01-14 23:40:57 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 23:40:57 --> File loaded: application/views/home/summary-company.php
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 3 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 4 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 5 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 6 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 7 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 10 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 11 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 12 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 13 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 17 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 18 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 19 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 22 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 23 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 24 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 25 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 28 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 29 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 30 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 31 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 32 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 35 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 38 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 39 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 42 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 43 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 44 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 45 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 46 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 47 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 48 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 51 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 52 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 53 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 56 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 57 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 74 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 75 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 76 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 77 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 78 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 79 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 80 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 81 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 82 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 60 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 61 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 62 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 63 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 64 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 67 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 68 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 70 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 71 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 85 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 86 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 88 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 87 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 89 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 91 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:40:57 --> Severity: Notice  --> Undefined offset: 92 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+DEBUG - 2014-01-14 23:40:57 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 23:40:57 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 23:40:57 --> Model Class Initialized
+DEBUG - 2014-01-14 23:40:57 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 23:40:57 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 23:40:57 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 23:40:57 --> Final output sent to browser
+DEBUG - 2014-01-14 23:40:57 --> Total execution time: 1.0756
+DEBUG - 2014-01-14 23:42:05 --> Config Class Initialized
+DEBUG - 2014-01-14 23:42:05 --> Hooks Class Initialized
+DEBUG - 2014-01-14 23:42:05 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 23:42:05 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 23:42:05 --> URI Class Initialized
+DEBUG - 2014-01-14 23:42:05 --> Router Class Initialized
+DEBUG - 2014-01-14 23:42:05 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 23:42:05 --> Output Class Initialized
+DEBUG - 2014-01-14 23:42:05 --> Security Class Initialized
+DEBUG - 2014-01-14 23:42:05 --> Input Class Initialized
+DEBUG - 2014-01-14 23:42:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 23:42:05 --> Language Class Initialized
+DEBUG - 2014-01-14 23:42:05 --> Loader Class Initialized
+DEBUG - 2014-01-14 23:42:05 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 23:42:05 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 23:42:05 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 23:42:05 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 23:42:05 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 23:42:05 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 23:42:05 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 23:42:05 --> Session Class Initialized
+DEBUG - 2014-01-14 23:42:05 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 23:42:05 --> Session routines successfully run
+DEBUG - 2014-01-14 23:42:05 --> Controller Class Initialized
+DEBUG - 2014-01-14 23:42:05 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 23:42:05 --> Model Class Initialized
+DEBUG - 2014-01-14 23:42:05 --> Model Class Initialized
+DEBUG - 2014-01-14 23:42:05 --> Model Class Initialized
+DEBUG - 2014-01-14 23:42:05 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Adelaide D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Brisbane D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Canberra D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Darwin D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Gold Coast D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Hobart D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Melbourne D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Perth D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined index: Sydney D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+DEBUG - 2014-01-14 23:42:05 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 23:42:05 --> File loaded: application/views/home/summary-company.php
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 3 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 4 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 5 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 6 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 7 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 10 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 11 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 12 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 13 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 17 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 18 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 19 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 22 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 23 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 24 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 25 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 28 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 29 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 30 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 31 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 32 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 35 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 38 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 39 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 42 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 43 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 44 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 45 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 46 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 47 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 48 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 51 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 52 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 53 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 56 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 57 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 74 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 75 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 76 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 77 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 78 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 79 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 80 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 81 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 82 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 60 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 61 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 62 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 63 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 64 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 67 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 68 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 70 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 71 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 85 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 86 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 88 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 87 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 89 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 91 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:05 --> Severity: Notice  --> Undefined offset: 92 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+DEBUG - 2014-01-14 23:42:05 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 23:42:05 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 23:42:05 --> Model Class Initialized
+DEBUG - 2014-01-14 23:42:05 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 23:42:05 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 23:42:05 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 23:42:05 --> Final output sent to browser
+DEBUG - 2014-01-14 23:42:05 --> Total execution time: 0.3667
+DEBUG - 2014-01-14 23:42:50 --> Config Class Initialized
+DEBUG - 2014-01-14 23:42:50 --> Hooks Class Initialized
+DEBUG - 2014-01-14 23:42:50 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 23:42:50 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 23:42:50 --> URI Class Initialized
+DEBUG - 2014-01-14 23:42:50 --> Router Class Initialized
+DEBUG - 2014-01-14 23:42:50 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 23:42:50 --> Output Class Initialized
+DEBUG - 2014-01-14 23:42:50 --> Security Class Initialized
+DEBUG - 2014-01-14 23:42:50 --> Input Class Initialized
+DEBUG - 2014-01-14 23:42:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 23:42:50 --> Language Class Initialized
+DEBUG - 2014-01-14 23:42:50 --> Loader Class Initialized
+DEBUG - 2014-01-14 23:42:50 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 23:42:50 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 23:42:50 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 23:42:50 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 23:42:50 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 23:42:50 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 23:42:50 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 23:42:50 --> Session Class Initialized
+DEBUG - 2014-01-14 23:42:50 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 23:42:50 --> Session routines successfully run
+DEBUG - 2014-01-14 23:42:50 --> Controller Class Initialized
+DEBUG - 2014-01-14 23:42:50 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 23:42:50 --> Model Class Initialized
+DEBUG - 2014-01-14 23:42:50 --> Model Class Initialized
+DEBUG - 2014-01-14 23:42:50 --> Model Class Initialized
+DEBUG - 2014-01-14 23:42:50 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Adelaide D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Brisbane D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Canberra D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Darwin D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Gold Coast D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Hobart D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Melbourne D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Perth D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined index: Sydney D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+DEBUG - 2014-01-14 23:42:50 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 23:42:50 --> File loaded: application/views/home/summary-company.php
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 3 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 4 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 5 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 6 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 7 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 10 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 11 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 12 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 13 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 17 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 18 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 19 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 22 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 23 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 24 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 25 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 28 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 29 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 30 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 31 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 32 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 35 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 38 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 39 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 42 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 43 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 44 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 45 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 46 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 47 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 48 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 51 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 52 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 53 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 56 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 57 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 74 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 75 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 76 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 77 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 78 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 79 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 80 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 81 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 82 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 60 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 61 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 62 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 63 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 64 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 67 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 68 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 70 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 71 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 85 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 86 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 88 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 87 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 89 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 91 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:42:50 --> Severity: Notice  --> Undefined offset: 92 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+DEBUG - 2014-01-14 23:42:50 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 23:42:50 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 23:42:50 --> Model Class Initialized
+DEBUG - 2014-01-14 23:42:50 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 23:42:50 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 23:42:50 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 23:42:50 --> Final output sent to browser
+DEBUG - 2014-01-14 23:42:50 --> Total execution time: 0.3602
+DEBUG - 2014-01-14 23:43:14 --> Config Class Initialized
+DEBUG - 2014-01-14 23:43:14 --> Hooks Class Initialized
+DEBUG - 2014-01-14 23:43:14 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 23:43:14 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 23:43:14 --> URI Class Initialized
+DEBUG - 2014-01-14 23:43:14 --> Router Class Initialized
+DEBUG - 2014-01-14 23:43:14 --> No URI present. Default controller set.
+DEBUG - 2014-01-14 23:43:14 --> Output Class Initialized
+DEBUG - 2014-01-14 23:43:14 --> Security Class Initialized
+DEBUG - 2014-01-14 23:43:14 --> Input Class Initialized
+DEBUG - 2014-01-14 23:43:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-01-14 23:43:14 --> Language Class Initialized
+DEBUG - 2014-01-14 23:43:14 --> Loader Class Initialized
+DEBUG - 2014-01-14 23:43:14 --> Helper loaded: url_helper
+DEBUG - 2014-01-14 23:43:14 --> Helper loaded: widget_helper
+DEBUG - 2014-01-14 23:43:14 --> Helper loaded: pagination_helper
+DEBUG - 2014-01-14 23:43:14 --> Helper loaded: language_helper
+DEBUG - 2014-01-14 23:43:14 --> Helper loaded: main_helper
+DEBUG - 2014-01-14 23:43:14 --> Helper loaded: menu_helper
+DEBUG - 2014-01-14 23:43:14 --> Database Driver Class Initialized
+DEBUG - 2014-01-14 23:43:14 --> Session Class Initialized
+DEBUG - 2014-01-14 23:43:14 --> Helper loaded: string_helper
+DEBUG - 2014-01-14 23:43:14 --> Session garbage collection performed.
+DEBUG - 2014-01-14 23:43:14 --> Session routines successfully run
+DEBUG - 2014-01-14 23:43:14 --> Controller Class Initialized
+DEBUG - 2014-01-14 23:43:14 --> Language file loaded: language/english/label_lang.php
+DEBUG - 2014-01-14 23:43:14 --> Model Class Initialized
+DEBUG - 2014-01-14 23:43:14 --> Model Class Initialized
+DEBUG - 2014-01-14 23:43:14 --> Model Class Initialized
+DEBUG - 2014-01-14 23:43:14 --> File loaded: application/views/home/front-search.php
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Aceh D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Bali D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Bangka Belitung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Banten D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Bengkulu D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Gorontalo D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Jambi D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Jawa Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Jawa Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Jawa Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Kalimantan Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Kalimantan Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Kalimantan Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Kalimantan Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Kepulauan Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Lampung D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Maluku D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Maluku Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Nusa Tenggara Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Nusa Tenggara Timur D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Papua D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Papua Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Riau D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Sulawesi Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Sulawesi Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Sulawesi Tengah D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Sulawesi Tenggara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Sulawesi Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Sumatera Barat D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Sumatera Selatan D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Sumatera Utara D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 8
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Adelaide D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Brisbane D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Canberra D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Darwin D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Gold Coast D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Hobart D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Melbourne D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Perth D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined index: Sydney D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-location.php 32
+DEBUG - 2014-01-14 23:43:14 --> File loaded: application/views/home/summary-location.php
+DEBUG - 2014-01-14 23:43:14 --> File loaded: application/views/home/summary-company.php
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 3 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 4 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 5 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 6 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 7 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 10 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 11 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 12 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 13 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 17 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 18 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 19 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 22 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 23 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 24 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 25 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 28 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 29 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 30 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 31 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 32 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 35 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 38 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 39 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 42 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 43 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 44 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 45 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 46 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 47 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 48 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 51 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 52 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 53 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 56 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 57 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 74 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:14 --> Severity: Notice  --> Undefined offset: 75 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 76 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 77 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 78 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 79 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 80 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 81 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 82 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 60 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 61 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 62 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 63 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 64 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 67 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 68 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 70 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 71 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 85 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 86 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 88 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 87 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 89 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 91 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+ERROR - 2014-01-14 23:43:15 --> Severity: Notice  --> Undefined offset: 92 D:\WWW-Root\GitHub\j4c\site\application\views\home\summary-category.php 9
+DEBUG - 2014-01-14 23:43:15 --> File loaded: application/views/home/summary-category.php
+DEBUG - 2014-01-14 23:43:15 --> File loaded: application/views/home/summary.php
+DEBUG - 2014-01-14 23:43:15 --> Model Class Initialized
+DEBUG - 2014-01-14 23:43:15 --> File loaded: application/views/home/front.php
+DEBUG - 2014-01-14 23:43:15 --> File loaded: application/views/menu/main.php
+DEBUG - 2014-01-14 23:43:15 --> File loaded: application/views/default.php
+DEBUG - 2014-01-14 23:43:15 --> Final output sent to browser
+DEBUG - 2014-01-14 23:43:15 --> Total execution time: 0.4254
+DEBUG - 2014-01-14 23:43:21 --> Config Class Initialized
+DEBUG - 2014-01-14 23:43:21 --> Hooks Class Initialized
+DEBUG - 2014-01-14 23:43:21 --> Utf8 Class Initialized
+DEBUG - 2014-01-14 23:43:21 --> UTF-8 Support Enabled
+DEBUG - 2014-01-14 23:43:21 --> URI Class Initialized
+DEBUG - 2014-01-14 23:43:21 --> Router Class Initialized

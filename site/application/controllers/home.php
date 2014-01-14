@@ -17,9 +17,11 @@ class Home extends MY_Controller {
 		$vars = array(
 			'companies' => $this->company_model->companies(),
 			'locations' => $this->job_model->locations(),
+			'categories' => $this->job_model->categories(),
+			'summaries' => $this->job_model->summaries(),
 			'error_simple_search' => $this->session->userdata('error_simple_search')
 		);
-		
+        
 		// clear error
 		$this->session->unset_userdata('error_simple_search');
 		

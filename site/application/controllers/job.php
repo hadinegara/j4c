@@ -60,6 +60,11 @@ class Job extends MY_Controller {
 			}
 		}
 	}
+    
+    function at($company='')
+    {
+        echo $company;
+    }
 	
 	function detail($job_id='')
 	{
@@ -82,5 +87,15 @@ class Job extends MY_Controller {
 	function index()
 	{
 	}
+    
+    function in($location='')
+    {
+        echo $location;
+    }
+    
+    function spec($spec='')
+    {
+        echo $spec;
+    }
 	
 }

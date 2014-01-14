@@ -344,5 +344,46 @@ class Job_model extends CI_Model {
 			return FALSE;
 		}
 	}
+    
+    function summaries()
+    {
+        $summary = array(
+            'company'  => array(),
+            'location' => array(),
+            'category' => array()
+        );
+        
+        // get summaries basaed on company
+        $getc = $this->db->query('SELECT company_id,COUNT(job_id) AS nums FROM job GROUP BY company_id ORDER BY nums');
+        if($getc && $getc->num_rows()>0)
+        {
+            foreach($getc->result_array() as $row)
+            {
+                $summary['company'][$row['company_id']] = (int)$row['nums'];
+            }
+        }
+        
+        // get summaries basaed on location
+        $getl = $this->db->query('SELECT location,COUNT(job_id) AS nums FROM job GROUP BY location ORDER BY nums');
+        if($getl && $getl->num_rows()>0)
+        {
+            foreach($getl->result_array() as $row)
+            {
+                $summary['location'][$row['location']] = (int)$row['nums'];
+            }
+        }
+        
+        // get summaries basaed on category
+        $gets = $this->db->query('SELECT category,COUNT(job_id) AS nums FROM job GROUP BY category ORDER BY nums');
+        if($gets && $gets->num_rows()>0)
+        {
+            foreach($gets->result_array() as $row)
+            {
+                $summary['category'][$row['category']] = (int)$row['nums'];
+            }
+        }
+        
+        return $summary;
+    }
 	
 }
