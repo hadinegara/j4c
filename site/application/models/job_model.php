@@ -121,6 +121,29 @@ class Job_model extends CI_Model {
 			return FALSE;
 		}
 	}
+    
+    function get_by_company($company_id, $limit=20, $offset=0)
+    {
+		if(! $company_id)
+			return FALSE;
+		
+		$get = $this->db->select('j.*, j.job_id AS job_ref_id, c.company_id, c.name AS company_name')
+						->select('(SELECT COUNT(seeker_id) FROM job_apply WHERE job_id=job_ref_id) AS seeker_count')
+						->from('job j, company c')
+						->where("j.company_id=c.company_id AND j.status='publish' AND j.company_id='{$company_id}'", NULL, FALSE)
+						->order_by('date_close DESC, date_create DESC')
+						->limit($limit, $offset)
+						->get();
+		
+		if($get && $get->num_rows()>0)
+		{
+			return $get->result_array();
+		}
+		else
+		{
+			return FALSE;
+		}        
+    }
 	
 	function get_popular($limit=5)
 	{

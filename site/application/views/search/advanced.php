@@ -95,7 +95,7 @@
 				
 				<div class="row">
 					<div class="span8">
-						<label for="keyword"><?php echo lang('label_job_type'); ?></label>
+						<label><?php echo lang('label_job_type'); ?></label>
 						<div>
 							<div class="pull-left mr10">
 								<label class="checkbox">
@@ -138,7 +138,7 @@
 				
 				<div class="row">
 					<div class="span8">
-						<label for="keyword"><?php echo lang('label_job_time'); ?></label>
+						<label><?php echo lang('label_job_time'); ?></label>
 						<div>
 							<div class="pull-left mr10">
 								<label class="radio">

@@ -8,6 +8,7 @@ class Job extends MY_Controller {
 		
 		$this->load->model(array(
 			'job_model',
+            'company_model',
 			'seeker_model'
 		));
 		
@@ -63,7 +64,27 @@ class Job extends MY_Controller {
     
     function at($company='')
     {
-        echo $company;
+        $company_id = substr($company, strrpos($company, '-')+1);
+        
+        // get company deail
+        $company_detail = $this->company_model->get_detail($company_id);
+        if($company_detail !== FALSE)
+        {
+            $jobs = $this->job_model->get_by_company($company_id);
+            
+			$vars = array(
+				'result' => $jobs,
+                'company_detail' => $company_detail,
+				'keyword' => 'merdeka'
+			);
+			
+			$this->_data['content'] = $this->load->view('search/result', $vars, TRUE);
+			$this->load->view('default', $this->_data);
+        }
+        else
+        {
+            show_404();
+        }
     }
 	
 	function detail($job_id='')

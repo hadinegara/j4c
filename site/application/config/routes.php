@@ -41,6 +41,17 @@
 $route['default_controller'] = "home";
 $route['404_override'] = '';
 
+$langs = json_decode(LANGS, TRUE);
+foreach($langs as $prefix=>$name)
+{
+    if($prefix !== 'en')
+    {
+        $route[$prefix] = "home";
+        $route[$prefix . '/(:any)'] = "$1";
+        $route[$prefix . '/(:any)/(:any)'] = "$1/$2";
+    }
+}
 
+//echo '<pre>'; print_r($route); exit;
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */

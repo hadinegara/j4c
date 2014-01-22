@@ -23,6 +23,29 @@ class Company_model extends CI_Model {
         }
     }
 
+    /**
+	 * Get company detail by id
+	 * @param	string company id
+	 * @return	mixed|boolean
+     */
+    function get_detail($company_id)
+    {
+        if(! $company_id)
+            return FALSE;
+            
+        $get = $this->db->limit(1)
+                        ->get_where('company', array('company_id'=>$company_id));
+                        
+        if($get && $get->num_rows())
+        {
+            return $get->row_array();
+        }
+        else
+        {
+            return FALSE;
+        }
+    }
+
 	/**
 	 * Get company info by email
 	 * @param	string email

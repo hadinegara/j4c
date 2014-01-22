@@ -5,7 +5,14 @@
  */
 function assets_url($uri='')
 {
-	return base_url("assets/{$uri}");
+    $langs = json_decode(LANGS, TRUE);
+    $assets_url = base_url();
+    foreach($langs as $prefix=>$name)
+    {
+       $assets_url = str_replace("/{$prefix}", '', trim($assets_url, '/'));
+    }
+    $assets_url .= '/assets/';
+	return rtrim($assets_url, '/') . ($uri != '' ? "/{$uri}" : '');
 }
 
 /**
@@ -27,6 +34,19 @@ function full_url($uri='')
 	}
 	
 	return $full;
+}
+
+function lang_url($lang='en')
+{
+    $langs = json_decode(LANGS, TRUE);
+    $lang_url = base_url();
+    foreach($langs as $prefix=>$name)
+    {
+       $lang_url = str_replace("/{$prefix}", '', trim($lang_url, '/'));
+    }
+    
+    $lang_url .= ($lang != 'en') ? "/{$lang}/" : '/';
+    return str_replace(base_url(), $lang_url, full_url());
 }
 
 /**

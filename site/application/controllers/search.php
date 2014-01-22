@@ -38,10 +38,10 @@ class Search extends MY_Controller {
 		{
 			case 'all':
 				$sql .= "(";
-				$sql .= "`job`.`title` LIKE '%{$post_data['keyword']}%' OR";
+				$sql .= "`job`.`title` LIKE '%{$post_data['keyword']}%' OR ";
 				$sql .= "`job`.`description` LIKE '%{$post_data['keyword']}%' OR ";
 				$sql .= "`job`.`requirement` LIKE '%{$post_data['keyword']}%'";
-				$sql .= ")";				
+				$sql .= ")";
 			break;
 			case 'title':
 				$sql .= "`job`.`title` LIKE '%{$post_data['keyword']}%'";
@@ -91,6 +91,7 @@ class Search extends MY_Controller {
 				$sql .= (($i+1) != count($post_data['job_type'])) ? " OR " : "";
 			}
 		}
+        $sql = rtrim(trim($sql), 'OR');
 		
 		
 		// job_experience
@@ -138,7 +139,9 @@ class Search extends MY_Controller {
 		}
 		else
 		{
-			show_404();
+		      echo $sql;
+            var_dump($get->num_rows());
+			//show_404();
 		}
 	}
 	
@@ -173,7 +176,7 @@ class Search extends MY_Controller {
                 else
                 {
     				$this->session->set_userdata('error_simple_search', lang('msg_no_result'));
-    				redirect(base_url(), 'refresh');
+    				redirect(base_url(), 'location');
                 }
 			}
 			else

@@ -46,8 +46,8 @@
 			<div class="pull-right">
 				<div class="lang-bar">
 					<?php 
-					$href_id = (LANG_ACTIVE == 'bahasa')  ? '#' : full_url('?lang=id');
-					$href_en = (LANG_ACTIVE == 'english') ? '#' : full_url();
+					$href_id = (LANG_ACTIVE == 'bahasa')  ? '#' : lang_url('id');
+					$href_en = (LANG_ACTIVE == 'english') ? '#' : lang_url('en');
 					?>
 					<a class="<?php echo ((LANG_ACTIVE=='bahasa')?'active':''); ?>" href="<?php echo $href_id; ?>">Bahasa</a> - 
 					<a class="<?php echo ((LANG_ACTIVE=='english')?'active':''); ?>" href="<?php echo $href_en; ?>">English</a>

@@ -13,9 +13,7 @@ class MY_Controller extends CI_Controller {
 		// skip
 		$this->_skip();
 		
-		// define lang active
-		define('LANG_ACTIVE', 'english');
-		
+        // load label based on lang active
 		$this->lang->load('label', LANG_ACTIVE);
 		
 		// default data

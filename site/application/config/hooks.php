@@ -10,7 +10,12 @@
 |
 */
 
-
+$hook['pre_system'] = array(
+    'class'    => '',
+    'function' => 'set_lang',
+    'filename' => 'set_lang.php',
+    'filepath' => 'hooks'
+);
 
 /* End of file hooks.php */
 /* Location: ./application/config/hooks.php */
