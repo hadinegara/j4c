@@ -467,6 +467,52 @@
 /** END OF BODY --------- */
 
 
+/**
+ * FOOTER
+ */
+.footer {
+    position: relative;
+    border-top: 5px solid #FBB54F;
+    background-color: #08AEEA;
+    color: #FFF;
+    padding: 20px 20px 45px;
+    margin-top: 20px;
+}
+.footer .footer-item .title {
+    font-weight: bold;
+    color: #034963;
+}
+.footer .footer-item .item-row a {
+    color: #BBEBFD;
+}
+.footer .footer-item .item-row a:hover {
+    color: #E2F7FE;
+}
+.footer .footer-logo {
+    width: 175px;
+}
+.footer .footer-logo img {
+    min-width: 100%;
+    height: auto;
+}
+.footer .footer-address {
+    font-size: 12px;
+    line-height: 1.2em;
+    text-align: right;
+    margin-top: 5px;
+}
+.footer .footer-pass {
+    border-top: 1px solid #0795C9;
+    background-color: #8DDEFB;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 5px 20px;
+    color: #034963;
+}
+/** END OF FOOTER --------- */
+
 .list-float {
     list-style-position: inside;
     margin: 0;

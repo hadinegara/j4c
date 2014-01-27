@@ -103,5 +103,10 @@
 		</div>
 		
 	</div><!-- /.span8 -->
+    
+    
+    <div class="span4">
+        <?php Widget::run('related_to_detail', @$detail['job_id']); ?>
+    </div><!-- /.span4 -->
 	
 </div>

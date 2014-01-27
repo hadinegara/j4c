@@ -22,6 +22,11 @@ class Home extends MY_Controller {
 			'error_simple_search' => $this->session->userdata('error_simple_search')
 		);
         
+        $this->session->set_userdata(array(
+            'related_name' => 'spec',
+            'related_value' => ''
+        ));
+        
 		// clear error
 		$this->session->unset_userdata('error_simple_search');
 		

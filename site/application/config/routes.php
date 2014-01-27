@@ -46,6 +46,11 @@ foreach($langs as $prefix=>$name)
 {
     if($prefix !== 'en')
     {
+        //$route['stc'] = "static_content";
+        $route['stc/(:any)'] = "static_content/content/$1";
+        //$route[$prefix . '/stc'] = "static_content";
+        $route[$prefix . '/stc/(:any)'] = "static_content/content/$1";
+        
         $route[$prefix] = "home";
         $route[$prefix . '/(:any)'] = "$1";
         $route[$prefix . '/(:any)/(:any)'] = "$1/$2";

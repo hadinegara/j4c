@@ -15,7 +15,7 @@
 					<div class="small"><?php echo lang('label_closing_date').': <strong>'.date('d F Y', strtotime($row['date_close'])).'</strong>'; ?></div>
 				</div>
 				<div class="pull-right" style="padding-top:15px">
-					<span class="badge badge-warning"><?php echo $row['nums_apply']; ?></span>
+					<span title="<?php echo lang('label_number_of_applied'); ?>" class="badge badge-warning"><?php echo $row['nums_apply']; ?></span>
 				</div>
 				<div class="clearfix"></div>
 			</div>

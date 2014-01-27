@@ -145,6 +145,54 @@ class Job_model extends CI_Model {
 		}        
     }
 	
+    function get_by_location($location, $limit=20, $offset=0)
+    {
+		if(! $location)
+			return FALSE;
+            
+        $location = preg_replace('/[^a-z0-9]/i', ' ', $location);
+		$get = $this->db->select('j.*, j.job_id AS job_ref_id, c.company_id, c.name AS company_name')
+						->select('(SELECT COUNT(seeker_id) FROM job_apply WHERE job_id=job_ref_id) AS seeker_count')
+						->from('job j, company c')
+						->where("j.company_id=c.company_id AND j.status='publish' AND j.location='{$location}'", NULL, FALSE)
+						->order_by('date_close DESC, date_create DESC')
+						->limit($limit, $offset)
+						->get();
+		
+		if($get && $get->num_rows()>0)
+		{
+			return $get->result_array();
+		}
+		else
+		{
+			return FALSE;
+		}        
+    }
+	
+    function get_by_specialization($spec_id, $limit=20, $offset=0)
+    {
+		if(! $spec_id)
+			return FALSE;
+            
+		$get = $this->db->select('j.*, j.job_id AS job_ref_id, c.company_id, c.name AS company_name')
+						->select('(SELECT COUNT(seeker_id) FROM job_apply WHERE job_id=job_ref_id) AS seeker_count')
+						->from('job j, company c')
+						->where("j.company_id=c.company_id AND j.status='publish'", NULL, FALSE)
+                        ->where_in('j.category', $spec_id)
+						->order_by('date_close DESC, date_create DESC')
+						->limit($limit, $offset)
+						->get();
+		
+		if($get && $get->num_rows()>0)
+		{
+			return $get->result_array();
+		}
+		else
+		{
+			return FALSE;
+		}        
+    }
+    
 	function get_popular($limit=5)
 	{
 		$get = $this->db->select('count(*) as nums_apply, j.*, c.name as company_name')
@@ -153,7 +201,7 @@ class Job_model extends CI_Model {
 						->join('company c', 'j.company_id=c.company_id', 'left')
 						->group_by('ja.job_id')
 						->order_by('nums_apply DESC')
-						->where('j.date_create > DATE_SUB(CURRENT_DATE, INTERVAL 1 WEEK)', NULL, FALSE)
+						->where('j.date_create > DATE_SUB(CURRENT_DATE, INTERVAL 1 MONTH)', NULL, FALSE)
 						->limit($limit)
 						->get();
 						
@@ -166,6 +214,51 @@ class Job_model extends CI_Model {
 			return FALSE;
 		}
 	}
+    
+    function get_spec_detail($spec_id)
+    {
+        if(! $spec_id)
+            return FALSE;
+        
+        $get = $this->db->where('id', $spec_id)
+                        ->or_where('parent_id', $spec_id)
+                        ->get('category');
+        
+        if($get && $get->num_rows() > 0)
+        {
+            $result = array();
+            $childs = array();
+            $list_id = array();
+            foreach($get->result_array() as $row)
+            {
+                $list_id[] = $row['id'];
+                if($row['parent_id'] == 0)
+                {
+                    $result = $row;
+                }
+                else
+                {
+                    $childs[] = $row;
+                }
+            }
+            
+            if(count($result) == 0 && count($childs) > 0)
+            {
+                $get = $this->db->get_where('category', array('id'=>$childs[0]['parent_id']));
+                $result = $get->row_array();
+                $list_id[] = $result['id'];
+            }
+            
+            $result['childs'] = $childs;
+            $result['list_id'] = $list_id;
+            
+            return $result;
+        }
+        else
+        {
+            return FALSE;
+        }
+    }
 	
 	/**
 	 * Check whether current job is applied by current seeker

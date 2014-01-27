@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
+	<meta charset="utf-8" />
 	<title><?php echo $page_title; ?></title>
 	<meta name="viewport" content="initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,width=device-width,user-scalable=no" />
 	
@@ -41,7 +41,7 @@
 	<div class="header">
 		<div class="hd1">
 			<div class="pull-left">
-				<a class="logo" href="<?php echo base_url(); ?>"><img src="<?php echo assets_url('images/logo.png'); ?>" alt="ZzZZZ" class="img-responsive" /></a>
+				<a class="logo" href="<?php echo base_url(); ?>"><img src="<?php echo assets_url('images/logo.png'); ?>" alt="Job4Career" class="img-responsive" /></a>
 			</div>
 			<div class="pull-right">
 				<div class="lang-bar">
@@ -62,6 +62,11 @@
 	<div class="body">
 		<?php echo $content; ?>
 	</div>
+    
+    <div class="clearfix"></div>
+    <div class="footer">
+        <?php $this->load->view('footer'); ?>
+    </div>
 </div>
 
 <script type="text/javascript" src="<?php echo assets_url('libs/bootstrap/js/bootstrap.min.js'); ?>"></script>

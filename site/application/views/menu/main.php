@@ -16,9 +16,9 @@
 		<div class="nav-collapse collapse">
 			<ul class="nav">
 				<li class="<?php echo ($active_menu == 'home' || $active_menu == '') ? 'active' : ''; ?> menu-home"><a href="<?php echo base_url(); ?>"><?php echo $this->lang->line('menu_home'); ?></a></li>
-				<li class="<?php echo ($active_menu == 'my_job') ? 'active' : ''; ?>"><a href="<?php echo base_url('my_job'); ?>"><?php echo $this->lang->line('menu_my_job'); ?></a></li>
 				
 				<?php if((! isset($all_sess['company_login_id']) || $all_sess['company_login_id'] == '') && (! isset($all_sess['company_name']) || $all_sess['company_name'] == '') && (! isset($all_sess['login_id']))): ?>
+				<li class="<?php echo ($active_menu == 'my_job') ? 'active' : ''; ?>"><a href="<?php echo base_url('my_job'); ?>"><?php echo $this->lang->line('menu_my_job'); ?></a></li>
 				<li class="dropdown <?php echo ($active_menu == 'register' ? 'active' : ''); ?>">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown">
 						<?php echo $this->lang->line('menu_free_register'); ?>
