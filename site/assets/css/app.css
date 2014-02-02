@@ -59,6 +59,14 @@
     margin-right: 15px;
     font-size: 16px;
 }
+.input-block-level {
+    height: 30px !important;
+    min-height: auto !important;
+}
+textarea.input-block-level {
+    height: auto !important;
+    min-height: auto !important;
+}
 /** END OF OVERRIDE ----- */
 
 /** --------------------- */
@@ -364,6 +372,19 @@
 .resume-photo,
 .resume-container {
 }
+.resume-photo #photo {
+    display: inline-block;
+    border: 1px solid #CCC;
+    width: 120px;
+    height: 120px;
+    margin-bottom: 10px;
+    padding: 5px;
+    text-align: center;
+}
+.resume-photo #photo img {
+    max-width: 120px;
+    max-height: 120px;
+}
 .resume-part {
 	margin-bottom: 20px;
 }
@@ -510,6 +531,15 @@
     left: 0;
     padding: 5px 20px;
     color: #034963;
+}
+.footer .footer-pass .terms,
+.footer .footer-pass .copyright {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.footer .footer-pass .terms {
+    float: right;
 }
 /** END OF FOOTER --------- */
 

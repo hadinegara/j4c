@@ -4,6 +4,14 @@ $(function(){
 		return -($(".resume-photo").outerHeight());
 	});
 	
+    // add/ edit photo
+    $(".btn-photo").bind('click', function(e){
+        e.preventDefault();
+        var left = (screen.width/2) - 300,
+            top = (screen.height/2) - 250;
+        window.open(APP.base_url+"my_job/resume/photo", "win-photo", "addressbar=no, statusbar, no, width=600, height=400, left="+ left +", top="+ top);
+    });
+    
 	// edit button
 	var $modal_trigger = null;
 	$(".resume-edit").each(function(){
@@ -80,6 +88,8 @@ $(function(){
 	 * Edit Skills
 	 */
 	if($("#skill-modal").length > 0){
+	    APP.GLobalCounter['SK'] = 0;
+        
 		var modalSK = $("#skill-modal"),
 			skill_first = modalSK.find(".skill-item:last").html(), 
 			skill_tpl = '<div class="skill-item">'+ skill_first +'</div>';
@@ -88,8 +98,11 @@ $(function(){
 		modalSK.find(".btn-add_skill").bind('click', function(e){
 			e.preventDefault();
 			
-			APP.GLobalCounter++;
-			if(APP.GLobalCounter < 20){
+			APP.GLobalCounter['SK']++;
+            
+            console.log(APP.GLobalCounter['SK']);
+            
+			if(APP.GLobalCounter['SK'] < 20){
 				var btn_container = $(this).parent();
 				$(skill_tpl).insertBefore(btn_container);
 				modalSK.find("input[type='text']:last").focus();
@@ -170,17 +183,19 @@ $(function(){
      * Edit Languages
      */
     if($("#language-modal").length>0){
+        APP.GLobalCounter['LANG'] = 0;
+        
 		var modalLANG = $("#language-modal"),
 			lang_first = modalLANG.find(".language-item:last").html(), 
 			lang_tpl = '<div class="language-item">'+ lang_first +'</div>';
 		
 		// button add skill
-        APP.GLobalCounter = parseInt(modalLANG.find('input[name^=language]').length);
+        APP.GLobalCounter['LANG'] = parseInt(modalLANG.find('input[name^=language]').length);
 		modalLANG.find(".btn-add_language").bind('click', function(e){
 			e.preventDefault();
 			
-			APP.GLobalCounter++;
-			if(APP.GLobalCounter <= 5){
+			APP.GLobalCounter['LANG']++;
+			if(APP.GLobalCounter['LANG'] <= 5){
 				var btn_container = $(this).parent();
 				$(lang_tpl).insertBefore(btn_container);
 				modalLANG.find(".language-item:last").find("input[type='text']:first").focus();

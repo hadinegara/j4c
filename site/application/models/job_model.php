@@ -79,6 +79,21 @@ class Job_model extends CI_Model {
 			return FALSE;
 		}
 	}
+    
+    function create_alert($seeker_id, $period, $data)
+    {
+        if( ! $seeker_id || ! $period || ! $data)
+            return FALSE;
+            
+        $data = array(
+            'period' => $period,
+            'name' => url_title($data['title']),
+            'criteria' => json_encode($data),
+            'date_create' => date('YmdHis')
+        );
+        
+        return $this->db->insert('alert', $data);
+    }
 
 	/**
 	 * Delete job

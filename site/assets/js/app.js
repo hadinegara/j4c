@@ -1,5 +1,5 @@
 // Global Counter
-APP.GLobalCounter = 0;
+APP.GLobalCounter = [];
 
 // app date
 APP.date = function(format){

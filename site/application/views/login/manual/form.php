@@ -32,7 +32,7 @@ $this->session->set_userdata('private_key', $private_key);
 					<div class="control-group">
 						<label class="control-label" for="login-email"><?php echo $this->lang->line('label_email'); ?></label>
 						<div class="controls">
-							<input autocomplete="off" type="text" name="login_email" id="login-email" placeholder="<?php echo $this->lang->line('label_email'); ?>" />
+							<input type="text" name="login_email" id="login-email" placeholder="<?php echo $this->lang->line('label_email'); ?>" />
 						</div>
 					</div>
 					<div class="control-group">

@@ -95,6 +95,6 @@ $this->session->set_userdata('private_key', $private_key);
 			</form>
 		
 		</div>
-		<div class="span4">R</div>
+		<div class="span4">&nbsp;</div>
 	</div>
 </div>

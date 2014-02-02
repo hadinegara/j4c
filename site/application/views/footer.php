@@ -1,5 +1,5 @@
 <div class="row-fluid">
-    <div class="span9">
+    <div class="span9 left-a">
         <div class="span4  footer-item">
             <div class="title"><?php echo lang('label_job_seeker'); ?></div>
             <div class="item-row">
@@ -35,7 +35,7 @@
         </div>
     </div>
     
-    <div class="span3">
+    <div class="span3 left-b">
         <div class="footer-logo pull-right">
             <div><a href="<?php echo base_url(); ?>" title="Job4Career.com"><img src="<?php echo assets_url('images/logo-white.png'); ?>" alt="Job4Career" /></a></div>
         </div>
@@ -51,11 +51,11 @@
     <div class="clearfix"></div>
     
     <div class="footer-pass">
-        <div class="pull-left">&copy; 2014 - All Rights Reserved</div>
-        <div class="pull-right">
+        <div class="terms">
             <a href="<?php echo base_url('stc/privacy'); ?>" title="<?php echo lang('label_privacy'); ?>"><?php echo lang('label_privacy'); ?></a> - 
             <a href="<?php echo base_url('stc/terms-and-conditions'); ?>" title="<?php echo lang('label_terms_and_conditions'); ?>"><?php echo lang('label_terms_and_conditions'); ?></a>
         </div>
+        <div class="copyright">&copy; 2014 - All Rights Reserved</div>
         <div class="clearfix"></div>
     </div>
 </div>

@@ -243,9 +243,71 @@ class Resume extends MY_Controller {
 			'active_tab' => 'resume',
 			'info' => $this->seeker_model->get_full_info($this->session->userdata('seeker_id'))
 		);
+        //echo '<pre>'; print_r($vars['info']); exit;
+        
 		$this->_data['content'] = $this->load->view('my_job/resume', $vars, TRUE);
 		$this->load->view('default', $this->_data);	
 	}
+    
+    function photo()
+    {
+        $seeker_id = $this->session->userdata('seeker_id');
+        
+        if(! isset($_FILES['userfile']))
+        {
+            $vars = FALSE;
+            $photo_url = $this->session->userdata('uploaded_photo_url');
+            if($photo_url != '')
+            {
+                $vars = array('photo_url' => $photo_url);
+                $this->session->unset_userdata('uploaded_photo_url', '');
+            }
+            else
+            {
+                $photo_url = $this->seeker_model->get_pics($seeker_id);
+                if($photo_url != '')
+                {
+                    $photo_url = static_url("s/{$seeker_id}/{$photo_url}");
+                    $vars = array('photo_url' => $photo_url);
+                }
+            }
+            
+            $this->load->view('my_job/photo-upload', $vars);
+        }
+        else
+        {
+            $upload_path = 'D:/WWW-Root/GitHub/j4c/site/static/s/' . $seeker_id;
+            if(! is_dir($upload_path))
+            {
+                mkdir($upload_path);
+            }
+            
+            $config['upload_path']    = $upload_path;
+    		$config['allowed_types']  = 'jpg|png';
+    		$config['max_width']      = 500;
+    		$config['max_height']     = 500;
+    		$config['overwrite']      = TRUE;
+    		$config['file_name']      = substr(md5($seeker_id), 0, 5);
+    
+    		$this->load->library('upload', $config);
+    
+    		if ( ! $this->upload->do_upload())
+    		{
+    			$error = array('error' => $this->upload->display_errors());    
+    			$this->load->view('my_job/photo-upload', $error);
+    		}
+    		else
+    		{
+    			$data = $this->upload->data();
+                $this->seeker_model->update_pics($data['file_name'], $seeker_id);
+                
+                $photo_url = static_url("s/{$seeker_id}/{$data['file_name']}");
+                $this->session->set_userdata('uploaded_photo_url', $photo_url);
+                
+                redirect("my_job/resume/photo?r=". md5(microtime()), "refresh");
+    		}
+        }
+    }
 	
 	function update($part='')
 	{

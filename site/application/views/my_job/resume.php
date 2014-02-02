@@ -3,7 +3,17 @@
 <div class="row">
 	<div class="span3 offset9">
 		<div class="resume-photo">
-			RIGHT
+            <div class="text-center">
+                <?php if(isset($info['seeker'][0]['pics']) && $info['seeker'][0]['pics'] != ''): ?>
+        			<div id="photo"><img src="<?php echo static_url("s/{$info['seeker'][0]['seeker_id']}/{$info['seeker'][0]['pics']}"); ?>" /></div>
+                    <br />
+                    <button class="btn btn-small btn-photo"><?php echo lang('btn_edit_photo'); ?></button>
+                <?php else: ?>
+        			<div id="photo"><img src="<?php echo assets_url('images/no-photo.png'); ?>" /></div>
+                    <br />
+                    <button class="btn btn-small btn-photo"><?php echo lang('btn_add_photo'); ?></button>
+                <?php endif; ?>
+            </div>
 		</div>
 	</div><!-- /.span3 -->
 </div>

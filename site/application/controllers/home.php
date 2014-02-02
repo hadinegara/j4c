@@ -34,5 +34,9 @@ class Home extends MY_Controller {
 		$this->load->view('default', $this->_data);
 	}
 	
-	
+	function skip_lang()
+    {
+        $t = str_replace('/'.LANG_PREFIX, '', full_url());
+        redirect($t, 'location', 301);
+    }
 }

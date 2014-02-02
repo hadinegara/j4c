@@ -25,19 +25,29 @@ class MY_Controller extends CI_Controller {
 	
 	private function _skip()
 	{
-		$uri = strtolower($this->uri->segment(1));
+        $n = LANG_PREFIX == 'en' ? 1 : 2;
+		$uri = strtolower($this->uri->segment($n));
 		switch($uri)
 		{
+			case 'account':
+				$login_id = $this->session->userdata('login_id');
+				if($login_id == '')
+				{
+					$this->session->sess_destroy();
+					redirect(base_url('login/manual'), 'location', 301);
+				}
+			break;
+            
 			case 'company':
 				$company_login_id = $this->session->userdata('company_login_id');
 				if($company_login_id != '')
 				{
-					if($this->uri->segment(2) == '')					
+					if($this->uri->segment($n+1) == '')					
 						redirect(base_url('company/front'), 'location', 301);
 				}
 				else
 				{
-					if(! preg_match('/(login|register)/i', $this->uri->segment(2)))
+					if(! preg_match('/(login|register)/i', $this->uri->segment($n+1)))
 					{
 						$this->session->sess_destroy();
 						redirect(base_url('company/login'), 'location', 301);
@@ -46,7 +56,7 @@ class MY_Controller extends CI_Controller {
 			break;
 			
 			case 'login'	:	
-				if($this->uri->segment(2) == '')
+				if($this->uri->segment($n+1) == '')
 					redirect(base_url('login/manual'), 'location', 301);
 			break;
 			
@@ -54,7 +64,7 @@ class MY_Controller extends CI_Controller {
 				$login_id = $this->session->userdata('login_id');
 				if($login_id != '')
 				{
-					if($this->uri->segment(2) == '')					
+					if($this->uri->segment($n+1) == '')					
 						redirect(base_url('my_job/front'), 'location', 301);
 				}
 				else
@@ -65,7 +75,7 @@ class MY_Controller extends CI_Controller {
 			break;
 			
 			case 'register'	:	
-				if($this->uri->segment(2) == '')
+				if($this->uri->segment($n+1) == '')
 					redirect(base_url('register/manual'), 'location', 301);
 			break;
 		}

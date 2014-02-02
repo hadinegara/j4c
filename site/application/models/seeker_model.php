@@ -103,5 +103,33 @@ class Seeker_model extends CI_Model {
 			return FALSE;
 		}
 	}
+    
+    function get_pics($seeker_id)
+    {
+        if(! $seeker_id)
+            return FALSE;
+        
+        $get = $this->db->select('pics')
+                        ->where('seeker_id', $seeker_id)
+                        ->get('seeker');
+        
+        if($get && $get->num_rows() > 0)
+        {
+            $row = $get->row_array();
+            return ($row['pics'] != '') ? $row['pics'] : FALSE;
+        }
+        else
+        {
+            return FALSE;
+        }
+    }
+    
+    function update_pics($file_name, $seeker_id)
+    {
+        if(! $file_name || ! $seeker_id)
+            return FALSE;
+            
+        return $this->db->update('seeker', array('pics'=>$file_name), array('seeker_id'=>$seeker_id));
+    }
 
 }

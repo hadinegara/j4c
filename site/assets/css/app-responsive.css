@@ -378,6 +378,18 @@
         width: 50%;
     }
     /* end of list-float */
+    
+    
+    /* footer */
+    .footer .left-a {
+        float: left;
+        width: auto;
+    }    
+    .footer .left-b {
+        float: right;
+        width: auto;
+    }    
+    /* end of footer */
 }
  
 /* Landscape phones and down */
@@ -476,6 +488,15 @@
 		margin-bottom: 0 !important;
 	}
 	/* end of resume-modal */
+    
+    /* footer */
+    .footer {
+        padding-bottom: 60px;
+    }
+    .footer .footer-pass .terms {
+        float: none;
+    }
+    /* end of footer */
 }
 
 @media (max-width: 300px) {

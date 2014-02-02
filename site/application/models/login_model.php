@@ -14,7 +14,7 @@ class Login_model extends CI_Model {
 		{
 			return array(
 				'status' => FALSE,
-				'message' => $this->lang->line('label_login_empty')
+				'message' => lang('label_login_empty')
 			);
 		}
 		
@@ -26,7 +26,7 @@ class Login_model extends CI_Model {
 		{
 			$row = $get->row_array();
 			$status = ($row['status'] == 'active');
-			$message = $this->lang->line('label_login_status_'. $row['status']);
+			$message = lang('label_login_status_'. $row['status']);
 			
 			return array(
 				'status' => $status,
@@ -37,7 +37,7 @@ class Login_model extends CI_Model {
 		{
 			return array(
 				'status' => FALSE,
-				'message' => $this->lang->line('label_login_invalid')
+				'message' => lang('label_login_invalid')
 			);
 		}
 	}
@@ -54,7 +54,7 @@ class Login_model extends CI_Model {
 		{
 			return array(
 				'status' => FALSE,
-				'message' => $this->lang->line('label_login_empty')
+				'message' => lang('label_login_empty')
 			);
 		}
 		
@@ -66,7 +66,7 @@ class Login_model extends CI_Model {
 		{
 			$row = $get->row_array();
 			$status = ($row['status'] == 'active');
-			$message = $this->lang->line('label_login_status_'. $row['status']);
+			$message = lang('label_login_status_'. $row['status']);
 			
 			return array(
 				'status' => $status,
@@ -77,9 +77,26 @@ class Login_model extends CI_Model {
 		{
 			return array(
 				'status' => FALSE,
-				'message' => $this->lang->line('label_login_invalid')
+				'message' => lang('label_login_invalid')
 			);
 		}
 	}
+    
+    /**
+     * Update password
+     * 
+     * @param   string new password
+     * @return  boolean
+     */
+    function update_password($new_password)
+    {
+        if($new_password == '')
+        {
+            return FALSE;
+        }
+        
+        $seeker_id = $this->session->userdata('seeker_id');
+        return $this->db->update('seeker', array('password'=>$new_password), array('seeker_id'=>$seeker_id));
+    }
 	
 }

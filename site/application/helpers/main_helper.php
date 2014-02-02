@@ -68,3 +68,18 @@ function enc($text)
 	$encoded = str_replace('=', '', base64_encode($text));
 	return substr($encoded, 10).substr($encoded, 0, 10);
 }
+
+/**
+ * URL for static files
+ */
+function static_url($uri='')
+{
+    $langs = json_decode(LANGS, TRUE);
+    $static_url = base_url();
+    foreach($langs as $prefix=>$name)
+    {
+       $static_url = str_replace("/{$prefix}", '', trim($static_url, '/'));
+    }
+    $static_url .= '/static/';
+	return rtrim($static_url, '/') . ($uri != '' ? "/{$uri}" : '');
+}

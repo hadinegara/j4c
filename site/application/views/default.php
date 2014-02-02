@@ -70,7 +70,8 @@
 </div>
 
 <script type="text/javascript" src="<?php echo assets_url('libs/bootstrap/js/bootstrap.min.js'); ?>"></script>
-<script type="text/javascript" src="<?php echo assets_url('libs/bootstrap/js/holder/holder.js'); ?>"></script>
+<script type="text/javascript" src="<?php echo assets_url('libs/bootstrap/js/respond.min.js'); ?>"></script>
+<!--<script type="text/javascript" src="<?php echo assets_url('libs/bootstrap/js/holder/holder.js'); ?>"></script>-->
 <script type="text/javascript" src="<?php echo assets_url('libs/bootstrap/js/google-code-prettify/prettify.js'); ?>"></script>
 <script type="text/javascript" src="<?php echo assets_url('js/app.lang-'. LANG_ACTIVE .'.js'); ?>"></script>
 <script type="text/javascript" src="<?php echo assets_url('js/app.js'); ?>"></script>

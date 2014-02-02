@@ -44,7 +44,12 @@ $route['404_override'] = '';
 $langs = json_decode(LANGS, TRUE);
 foreach($langs as $prefix=>$name)
 {
-    if($prefix !== 'en')
+    if($prefix == 'en')
+    {
+        $route['en'] = $route['default_controller'];
+        $route['en/(:any)'] = $route['default_controller'] ."/skip_lang/$1";
+    }
+    else
     {
         //$route['stc'] = "static_content";
         $route['stc/(:any)'] = "static_content/content/$1";

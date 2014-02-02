@@ -3,6 +3,6 @@ RewriteEngine on
 php_value short_open_tag 0
 php_value date.timezone 'Asia/Jakarta'
 
-RewriteCond $1 !^(index\.php|assets)
+RewriteCond $1 !^(index\.php|assets|static)
 RewriteRule ^(.*)$ index.php/$1 [L]
 
