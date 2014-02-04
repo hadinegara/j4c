@@ -48,7 +48,7 @@
                     <div class="span4">
                         <label for="specialization"><?php echo lang('label_specialization'); ?></label>
                         <select name="specialization" id="specialization">
-                            <option value=""><?php echo lang('lable_any_specialization'); ?></option>
+                            <option value=""><?php echo lang('label_any_specialization'); ?></option>
                             <?php foreach($categories as $spc_name=>$spc): ?>
                                 <optgroup label="<?php echo lang('label_'. url_title($spc_name, '_', TRUE)); ?>">
                                     <?php foreach($spc as $ctg): ?>
@@ -60,7 +60,7 @@
                     </div>
                     
                     <div class="span4">
-                        <label for="salary"><?php echo lang('label_salary'); ?></label>
+                        <label for="salary"><?php echo lang('label_month_salary'); ?></label>
                         <input type="text" name="salary" id="salary" value="<?php echo set_value('salary'); ?>" />
                     </div>
                 </div>

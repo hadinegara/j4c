@@ -86,6 +86,7 @@ class Job_model extends CI_Model {
             return FALSE;
             
         $data = array(
+            'seeker_id' => $seeker_id,
             'period' => $period,
             'name' => url_title($data['title']),
             'criteria' => json_encode($data),
@@ -109,6 +110,24 @@ class Job_model extends CI_Model {
 		return $this->db->delete('job', array('job_id'=>$job_id));
 	}
 	
+    
+    function get_alerts($seeker_id)
+    {
+        if(! $seeker_id)
+            return FALSE;
+            
+        $get = $this->db->order_by('date_create DESC')
+                        ->get_where('alert', array('seeker_id'=>$seeker_id));
+        
+        if($get && $get->num_rows() > 0)
+        {
+            return $get->result_array();
+        }
+        else
+        {
+            return FALSE;
+        }
+    }
 	 
 	/**
 	 * Get applied resumes for logged company
@@ -160,6 +179,23 @@ class Job_model extends CI_Model {
 		}        
     }
 	
+    function get_specialization_by_id($spc_id)
+    {
+        $get = $this->db->select('name')
+                        ->where('id', $spc_id)
+                        ->get('category');
+        
+        if($get && $get->num_rows())
+        {
+            $row = $get->row_array();
+            return lang('label_'. url_title($row['name'], '-', TRUE));
+        }
+        else
+        {
+            return FALSE;
+        }
+    }
+    
     function get_by_location($location, $limit=20, $offset=0)
     {
 		if(! $location)

@@ -25,7 +25,8 @@ class Alert extends MY_Controller {
 		$seeker_id = $this->session->userdata('seeker_id');
 	
 		$vars = array(
-            'active_tab' => 'alert'
+            'active_tab' => 'alert',
+            'alerts' => $this->job_model->get_alerts($seeker_id)
         );
 	
 		// define content
