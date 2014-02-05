@@ -16,7 +16,7 @@
     		<div class="span2"><?php echo lang('label_'. $row['period']); ?></div>
     		<div class="span3 hidden-phone"><?php echo $row['name']; ?></div>
     		<div class="span5">
-                <span class="visible-phone" style="display:inline !important; font-weight: bold"><?php echo lang('label_criteria'); ?>: </span>
+                <span class="visible-phone" style="float: left; font-weight: bold"><?php echo lang('label_criteria'); ?>: </span>
                 <?php 
                 $vals = array();
                 $criteria = json_decode($row['criteria'], TRUE);
@@ -38,6 +38,7 @@
                 } 
                 echo implode(', ', $vals);
                 ?>
+                <div class="clearfix"></div>
             </div>
             <div class="span1">
                 <a class="btn btn-small" href="<?php echo base_url("my_job/alert/delete?id=". str_replace('=', '', base64_encode($row['id']))); ?>"><?php echo lang('btn_delete'); ?></a>
@@ -54,7 +55,7 @@
 <?php else: ?>
 
     <div class="alert alert-info">
-        <div><?php echo lang('label_no_alert_found'); ?></div>
+        <div><?php echo lang('label_alert_not_found'); ?></div>
         <div class="mt10">
             <a href="<?php echo base_url("my_job/alert/create"); ?>" class="btn btn-small btn-primary"><?php echo lang('btn_create_job_alert'); ?></a>
         </div>

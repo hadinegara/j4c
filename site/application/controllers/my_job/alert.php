@@ -49,6 +49,22 @@ class Alert extends MY_Controller {
 		$this->load->view('default', $this->_data);	        
     }
     
+    function delete()
+    {
+        $id = $this->input->get('id');
+        if($id != '')
+        {
+            $id = base64_decode($id);
+            $delete = $this->job_model->delete_alert($id);
+            $message = $delete ? lang('label_alert_deleted') : lang('label_alert_delete_failure');
+            redirect(base_url("my_job/alert"));
+        }
+        else
+        {
+            show_404();
+        }
+    }
+    
     function save()
     {
         $this->form_validation->set_rules('title', lang('label_title'), 'required|trim');

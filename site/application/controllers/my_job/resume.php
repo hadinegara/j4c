@@ -276,10 +276,12 @@ class Resume extends MY_Controller {
         }
         else
         {
-            $upload_path = 'D:/WWW-Root/GitHub/j4c/site/static/s/' . $seeker_id;
+            $static_path = 'D:/WWW-Root/GitHub/j4c/site/static/s/';
+            $upload_path = $static_path . $seeker_id;
             if(! is_dir($upload_path))
             {
                 mkdir($upload_path);
+                copy($static_path . 'index.html', $upload_path .'/index.html');
             }
             
             $config['upload_path']    = $upload_path;

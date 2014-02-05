@@ -95,6 +95,11 @@ class Job_model extends CI_Model {
         
         return $this->db->insert('alert', $data);
     }
+    
+    function delete_alert($id)
+    {        
+        return $this->db->delete('alert', array('id'=>$id));
+    }
 
 	/**
 	 * Delete job
