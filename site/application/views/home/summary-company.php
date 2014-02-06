@@ -1,6 +1,6 @@
 <ul class="list-float">
 
-    <?php foreach($companies as $row): ?>
+    <?php foreach((array)$companies as $row): ?>
         
         <?php 
         $nums = (int)$summaries['company'][$row['company_id']];
