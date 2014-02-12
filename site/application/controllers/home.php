@@ -11,8 +11,13 @@ class Home extends MY_Controller {
             'company_model'
 		));		
 	}
+    
+    function index()
+    {
+        $this->load->view('default-pre');
+    }
 
-	function index()
+	function index_default()
 	{
 		$vars = array(
 			'companies' => $this->company_model->companies(),
