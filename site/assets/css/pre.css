@@ -71,18 +71,29 @@ body {
     text-shadow: 0 1px 1px #666;
 }
 .nav a#au {
-    background: rgba(1, 1, 103, 0.35) url(../images/au.png) 15px 50% no-repeat;
+    background-color: rgba(1, 1, 103, 0.35);
+    background-image: url(../images/au.png);
+    background-position: 15px 50%;
+    background-repeat: no-repeat;
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#35010167,endColorstr=#35010167); 
+    zoom: 1;
     margin-right: 20px;
 }
 .nav a#au:hover {
     background-color: rgba(1, 1, 103, 0.8);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#80010167,endColorstr=#80010167); 
 }
 .nav a#id {
-    background: rgba(255, 0, 0, 0.35) url(../images/id.png) 15px 50% no-repeat;
+    background-color: rgba(255, 0, 0, 0.35);
+    background-image: url(../images/id.png);
+    background-position: 15px 50%;
+	background-repeat: no-repeat;
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#35FF0000,endColorstr=#35FF0000); 
     margin-left: 20px;
 }
 .nav a#id:hover {
     background-color: rgba(255, 0, 0, 0.8);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#80FF0000,endColorstr=#80FF0000); 
 }
 
 .footer {
@@ -96,7 +107,6 @@ body {
     left: 0;
 }
 .footer .inner {
-    border-top: 1px solid #CCC;
     padding: 10px 5px;
     color: #999;
 }

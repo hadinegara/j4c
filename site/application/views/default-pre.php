@@ -43,8 +43,10 @@
     <div class="main-width">
         <div class="main-wrapper">
             <div class="inner">
-                <div class="left">&copy; 2012 - All Rights Reserved</div>
-                <div class="right">job4career.com - info@job4career.com</div>
+				<div class="right">
+					<div class="left" style="margin-right:20px">&copy; 2012 - All Rights Reserved</div>
+					<div class="left">job4career.com - info@job4career.com</div>
+				</div>
                 <div class="clear"></div>            
             </div>
         </div>
